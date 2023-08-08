@@ -1,0 +1,42 @@
+[2023-06-21T01:18:52.122+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.test_for_duplicate manual__2023-06-21T01:17:13.639585+00:00 [queued]>
+[2023-06-21T01:18:52.131+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.test_for_duplicate manual__2023-06-21T01:17:13.639585+00:00 [queued]>
+[2023-06-21T01:18:52.132+0000] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-21T01:18:52.133+0000] {taskinstance.py:1284} INFO - Starting attempt 1 of 1
+[2023-06-21T01:18:52.134+0000] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-21T01:18:52.145+0000] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): test_for_duplicate> on 2023-06-21 01:17:13.639585+00:00
+[2023-06-21T01:18:52.152+0000] {standard_task_runner.py:55} INFO - Started process 30506 to run task
+[2023-06-21T01:18:52.157+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dbt_ipflow_dag', 'test_for_duplicate', 'manual__2023-06-21T01:17:13.639585+00:00', '--job-id', '41', '--raw', '--subdir', 'DAGS_FOLDER/dbt_ip_flow_dag.py', '--cfg-path', '/tmp/tmpzdkfuax5']
+[2023-06-21T01:18:52.160+0000] {standard_task_runner.py:83} INFO - Job 41: Subtask test_for_duplicate
+[2023-06-21T01:18:52.277+0000] {task_command.py:389} INFO - Running <TaskInstance: dbt_ipflow_dag.test_for_duplicate manual__2023-06-21T01:17:13.639585+00:00 [running]> on host 635f1a4ac995
+[2023-06-21T01:18:52.355+0000] {taskinstance.py:1513} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dbt_ipflow_dag
+AIRFLOW_CTX_TASK_ID=test_for_duplicate
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-21T01:17:13.639585+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-21T01:17:13.639585+00:00
+[2023-06-21T01:18:52.369+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-06-21T01:18:52.371+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'dbt test --profiles-dir /opt/***/dbt/dbt_dsg_app --project-dir /opt/***/dbt/dbt_dsg_app']
+[2023-06-21T01:18:52.392+0000] {subprocess.py:86} INFO - Output:
+[2023-06-21T01:18:54.441+0000] {subprocess.py:93} INFO - [0m01:18:54  Running with dbt=1.5.1
+[2023-06-21T01:18:55.458+0000] {subprocess.py:93} INFO - [0m01:18:55  Found 12 models, 2 tests, 0 snapshots, 0 analyses, 321 macros, 0 operations, 0 seed files, 0 sources, 0 exposures, 0 metrics, 0 groups
+[2023-06-21T01:18:55.465+0000] {subprocess.py:93} INFO - [0m01:18:55
+[2023-06-21T01:18:56.581+0000] {subprocess.py:93} INFO - [0m01:18:56  Concurrency: 4 threads (target='dev')
+[2023-06-21T01:18:56.584+0000] {subprocess.py:93} INFO - [0m01:18:56
+[2023-06-21T01:18:56.596+0000] {subprocess.py:93} INFO - [0m01:18:56  1 of 2 START test not_null_stg_ipflow_merge_success_output_user_ip ............. [RUN]
+[2023-06-21T01:18:56.607+0000] {subprocess.py:93} INFO - [0m01:18:56  2 of 2 START test unique_stg_ipflow_merge_success_output_user_ip ............... [RUN]
+[2023-06-21T01:18:57.428+0000] {subprocess.py:93} INFO - [0m01:18:57  1 of 2 PASS not_null_stg_ipflow_merge_success_output_user_ip ................... [[32mPASS[0m in 0.82s]
+[2023-06-21T01:18:57.433+0000] {subprocess.py:93} INFO - [0m01:18:57  2 of 2 PASS unique_stg_ipflow_merge_success_output_user_ip ..................... [[32mPASS[0m in 0.82s]
+[2023-06-21T01:18:57.534+0000] {subprocess.py:93} INFO - [0m01:18:57
+[2023-06-21T01:18:57.538+0000] {subprocess.py:93} INFO - [0m01:18:57  Finished running 2 tests in 0 hours 0 minutes and 2.07 seconds (2.07s).
+[2023-06-21T01:18:57.582+0000] {subprocess.py:93} INFO - [0m01:18:57
+[2023-06-21T01:18:57.585+0000] {subprocess.py:93} INFO - [0m01:18:57  [32mCompleted successfully[0m
+[2023-06-21T01:18:57.589+0000] {subprocess.py:93} INFO - [0m01:18:57
+[2023-06-21T01:18:57.640+0000] {subprocess.py:93} INFO - [0m01:18:57  Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+[2023-06-21T01:18:58.017+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-06-21T01:18:58.072+0000] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=dbt_ipflow_dag, task_id=test_for_duplicate, execution_date=20230621T011713, start_date=20230621T011852, end_date=20230621T011858
+[2023-06-21T01:18:58.128+0000] {local_task_job.py:159} INFO - Task exited with return code 0
+[2023-06-21T01:18:58.180+0000] {taskinstance.py:2582} INFO - 1 downstream tasks scheduled from follow-on schedule check

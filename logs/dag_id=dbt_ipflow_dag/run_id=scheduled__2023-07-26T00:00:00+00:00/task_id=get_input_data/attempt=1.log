@@ -1,0 +1,43 @@
+[2023-07-27T00:00:02.632+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-07-26T00:00:00+00:00 [queued]>
+[2023-07-27T00:00:02.647+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-07-26T00:00:00+00:00 [queued]>
+[2023-07-27T00:00:02.649+0000] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-27T00:00:02.650+0000] {taskinstance.py:1284} INFO - Starting attempt 1 of 1
+[2023-07-27T00:00:02.653+0000] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-07-27T00:00:02.673+0000] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): get_input_data> on 2023-07-26 00:00:00+00:00
+[2023-07-27T00:00:02.698+0000] {standard_task_runner.py:55} INFO - Started process 92523 to run task
+[2023-07-27T00:00:02.703+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dbt_ipflow_dag', 'get_input_data', 'scheduled__2023-07-26T00:00:00+00:00', '--job-id', '88', '--raw', '--subdir', 'DAGS_FOLDER/dbt_ip_flow_dag.py', '--cfg-path', '/tmp/tmp1x8o30z7']
+[2023-07-27T00:00:02.734+0000] {standard_task_runner.py:83} INFO - Job 88: Subtask get_input_data
+[2023-07-27T00:00:02.879+0000] {task_command.py:389} INFO - Running <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-07-26T00:00:00+00:00 [running]> on host 635f1a4ac995
+[2023-07-27T00:00:02.983+0000] {taskinstance.py:1513} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dbt_ipflow_dag
+AIRFLOW_CTX_TASK_ID=get_input_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-07-26T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-07-26T00:00:00+00:00
+[2023-07-27T00:00:03.005+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-07-27T00:00:03.006+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', "dbt run --select stg_ipflow_input_data --profiles-dir /opt/***/dbt/dbt_dsg_app --project-dir /opt/***/dbt/dbt_dsg_app  --target dev --vars '{'env': 'dev'}' "]
+[2023-07-27T00:00:03.032+0000] {subprocess.py:86} INFO - Output:
+[2023-07-27T00:00:05.114+0000] {subprocess.py:93} INFO - [0m00:00:05  Running with dbt=1.5.1
+[2023-07-27T00:00:06.139+0000] {subprocess.py:93} INFO - [0m00:00:06  Found 12 models, 2 tests, 0 snapshots, 0 analyses, 321 macros, 0 operations, 0 seed files, 0 sources, 0 exposures, 0 metrics, 0 groups
+[2023-07-27T00:00:06.145+0000] {subprocess.py:93} INFO - [0m00:00:06
+[2023-07-27T00:00:06.720+0000] {subprocess.py:93} INFO - [0m00:00:06
+[2023-07-27T00:00:06.724+0000] {subprocess.py:93} INFO - [0m00:00:06  Finished running  in 0 hours 0 minutes and 0.57 seconds (0.57s).
+[2023-07-27T00:00:06.727+0000] {subprocess.py:93} INFO - [0m00:00:06  Encountered an error:
+[2023-07-27T00:00:06.728+0000] {subprocess.py:93} INFO - Runtime Error
+[2023-07-27T00:00:06.730+0000] {subprocess.py:93} INFO -   Database error while listing schemas in database "DEV_QA"
+[2023-07-27T00:00:06.731+0000] {subprocess.py:93} INFO -   Database Error
+[2023-07-27T00:00:06.733+0000] {subprocess.py:93} INFO -     250001 (08001): Failed to connect to DB: bcb55215.us-east-1.snowflakecomputing.com:443. Incorrect username or password was specified.
+[2023-07-27T00:00:07.266+0000] {subprocess.py:97} INFO - Command exited with return code 2
+[2023-07-27T00:00:07.285+0000] {taskinstance.py:1772} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 197, in execute
+    f"Bash command failed. The command returned a non-zero exit code {result.exit_code}."
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2023-07-27T00:00:07.292+0000] {taskinstance.py:1327} INFO - Marking task as FAILED. dag_id=dbt_ipflow_dag, task_id=get_input_data, execution_date=20230726T000000, start_date=20230727T000002, end_date=20230727T000007
+[2023-07-27T00:00:07.309+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 88 for task get_input_data (Bash command failed. The command returned a non-zero exit code 2.; 92523)
+[2023-07-27T00:00:07.367+0000] {local_task_job.py:159} INFO - Task exited with return code 1
+[2023-07-27T00:00:07.403+0000] {taskinstance.py:2582} INFO - 0 downstream tasks scheduled from follow-on schedule check

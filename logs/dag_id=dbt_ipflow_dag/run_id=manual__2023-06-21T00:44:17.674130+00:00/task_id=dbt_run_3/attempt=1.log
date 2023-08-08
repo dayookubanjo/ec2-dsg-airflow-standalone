@@ -1,0 +1,62 @@
+[2023-06-21T00:44:20.981+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.dbt_run_3 manual__2023-06-21T00:44:17.674130+00:00 [queued]>
+[2023-06-21T00:44:20.989+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.dbt_run_3 manual__2023-06-21T00:44:17.674130+00:00 [queued]>
+[2023-06-21T00:44:20.991+0000] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-21T00:44:20.992+0000] {taskinstance.py:1284} INFO - Starting attempt 1 of 1
+[2023-06-21T00:44:20.993+0000] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-21T00:44:21.007+0000] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): dbt_run_3> on 2023-06-21 00:44:17.674130+00:00
+[2023-06-21T00:44:21.013+0000] {standard_task_runner.py:55} INFO - Started process 28269 to run task
+[2023-06-21T00:44:21.018+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dbt_ipflow_dag', 'dbt_run_3', 'manual__2023-06-21T00:44:17.674130+00:00', '--job-id', '37', '--raw', '--subdir', 'DAGS_FOLDER/dbt_ip_flow_dag.py', '--cfg-path', '/tmp/tmp59nlzgzq']
+[2023-06-21T00:44:21.021+0000] {standard_task_runner.py:83} INFO - Job 37: Subtask dbt_run_3
+[2023-06-21T00:44:21.086+0000] {task_command.py:389} INFO - Running <TaskInstance: dbt_ipflow_dag.dbt_run_3 manual__2023-06-21T00:44:17.674130+00:00 [running]> on host 635f1a4ac995
+[2023-06-21T00:44:21.186+0000] {taskinstance.py:1513} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dbt_ipflow_dag
+AIRFLOW_CTX_TASK_ID=dbt_run_3
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-21T00:44:17.674130+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-21T00:44:17.674130+00:00
+[2023-06-21T00:44:21.188+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-06-21T00:44:21.190+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'dbt run --profiles-dir /opt/***/dbt/dbt_dsg_app --project-dir /opt/***/dbt/dbt_dsg_app']
+[2023-06-21T00:44:21.206+0000] {subprocess.py:86} INFO - Output:
+[2023-06-21T00:44:22.659+0000] {subprocess.py:93} INFO - [0m00:44:22  Running with dbt=1.5.1
+[2023-06-21T00:44:23.430+0000] {subprocess.py:93} INFO - [0m00:44:23  Found 12 models, 2 tests, 0 snapshots, 0 analyses, 321 macros, 0 operations, 0 seed files, 0 sources, 0 exposures, 0 metrics, 0 groups
+[2023-06-21T00:44:23.436+0000] {subprocess.py:93} INFO - [0m00:44:23
+[2023-06-21T00:44:25.399+0000] {subprocess.py:93} INFO - [0m00:44:25  Concurrency: 4 threads (target='dev')
+[2023-06-21T00:44:25.403+0000] {subprocess.py:93} INFO - [0m00:44:25
+[2023-06-21T00:44:25.419+0000] {subprocess.py:93} INFO - [0m00:44:25  1 of 12 START sql table model DBT_POC.src_ipflow_merge_output .................. [RUN]
+[2023-06-21T00:44:25.422+0000] {subprocess.py:93} INFO - [0m00:44:25  2 of 12 START sql table model DBT_POC.stg_ipflow_input_data .................... [RUN]
+[2023-06-21T00:44:25.425+0000] {subprocess.py:93} INFO - [0m00:44:25  3 of 12 START sql table model DBT_POC.stg_ipflow_success_data .................. [RUN]
+[2023-06-21T00:44:26.778+0000] {subprocess.py:93} INFO - [0m00:44:26  3 of 12 OK created sql table model DBT_POC.stg_ipflow_success_data ............. [[32mSUCCESS 1[0m in 1.33s]
+[2023-06-21T00:44:26.843+0000] {subprocess.py:93} INFO - [0m00:44:26  4 of 12 START sql table model DBT_POC.src_ipflow_merge_domain_observations ..... [RUN]
+[2023-06-21T00:44:26.845+0000] {subprocess.py:93} INFO - [0m00:44:26  5 of 12 START sql table model DBT_POC.src_ipflow_merge_success_output .......... [RUN]
+[2023-06-21T00:44:26.849+0000] {subprocess.py:93} INFO - [0m00:44:26  1 of 12 OK created sql table model DBT_POC.src_ipflow_merge_output ............. [[32mSUCCESS 1[0m in 1.41s]
+[2023-06-21T00:44:26.905+0000] {subprocess.py:93} INFO - [0m00:44:26  6 of 12 START sql incremental model DBT_POC.stg_ipflow_merge_output ............ [RUN]
+[2023-06-21T00:44:28.078+0000] {subprocess.py:93} INFO - [0m00:44:28  4 of 12 OK created sql table model DBT_POC.src_ipflow_merge_domain_observations  [[32mSUCCESS 1[0m in 1.22s]
+[2023-06-21T00:44:28.106+0000] {subprocess.py:93} INFO - [0m00:44:28  5 of 12 OK created sql table model DBT_POC.src_ipflow_merge_success_output ..... [[32mSUCCESS 1[0m in 1.22s]
+[2023-06-21T00:44:28.108+0000] {subprocess.py:93} INFO - [0m00:44:28  7 of 12 START sql incremental model DBT_POC.stg_ipflow_merge_domain_observations  [RUN]
+[2023-06-21T00:44:28.157+0000] {subprocess.py:93} INFO - [0m00:44:28  8 of 12 START sql incremental model DBT_POC.stg_ipflow_merge_success_output .... [RUN]
+[2023-06-21T00:44:29.371+0000] {subprocess.py:93} INFO - [0m00:44:29  6 of 12 OK created sql incremental model DBT_POC.stg_ipflow_merge_output ....... [[32mSUCCESS 0[0m in 2.46s]
+[2023-06-21T00:44:30.679+0000] {subprocess.py:93} INFO - [0m00:44:30  7 of 12 OK created sql incremental model DBT_POC.stg_ipflow_merge_domain_observations  [[32mSUCCESS 0[0m in 2.54s]
+[2023-06-21T00:44:30.706+0000] {subprocess.py:93} INFO - [0m00:44:30  9 of 12 START sql table model DBT_POC.fact_ip_to_company_domain ................ [RUN]
+[2023-06-21T00:44:30.879+0000] {subprocess.py:93} INFO - [0m00:44:30  8 of 12 OK created sql incremental model DBT_POC.stg_ipflow_merge_success_output  [[32mSUCCESS 0[0m in 2.70s]
+[2023-06-21T00:44:30.887+0000] {subprocess.py:93} INFO - [0m00:44:30  10 of 12 START sql table model DBT_POC.src_ipflow_normalized_location .......... [RUN]
+[2023-06-21T00:44:31.969+0000] {subprocess.py:93} INFO - [0m00:44:31  9 of 12 OK created sql table model DBT_POC.fact_ip_to_company_domain ........... [[32mSUCCESS 1[0m in 1.26s]
+[2023-06-21T00:44:32.070+0000] {subprocess.py:93} INFO - [0m00:44:32  10 of 12 OK created sql table model DBT_POC.src_ipflow_normalized_location ..... [[32mSUCCESS 1[0m in 1.17s]
+[2023-06-21T00:44:32.087+0000] {subprocess.py:93} INFO - [0m00:44:32  11 of 12 START sql table model DBT_POC.src_ipflow_ip_to_location ............... [RUN]
+[2023-06-21T00:44:33.396+0000] {subprocess.py:93} INFO - [0m00:44:33  11 of 12 OK created sql table model DBT_POC.src_ipflow_ip_to_location .......... [[32mSUCCESS 1[0m in 1.24s]
+[2023-06-21T00:44:33.413+0000] {subprocess.py:93} INFO - [0m00:44:33  12 of 12 START sql incremental model DBT_POC.stg_ipflow_ip_to_location_mappings  [RUN]
+[2023-06-21T00:44:35.672+0000] {subprocess.py:93} INFO - [0m00:44:35  12 of 12 OK created sql incremental model DBT_POC.stg_ipflow_ip_to_location_mappings  [[32mSUCCESS 0[0m in 2.25s]
+[2023-06-21T00:45:35.391+0000] {subprocess.py:93} INFO - [0m00:45:35  2 of 12 OK created sql table model DBT_POC.stg_ipflow_input_data ............... [[32mSUCCESS 1[0m in 69.95s]
+[2023-06-21T00:45:35.469+0000] {subprocess.py:93} INFO - [0m00:45:35
+[2023-06-21T00:45:35.472+0000] {subprocess.py:93} INFO - [0m00:45:35  Finished running 8 table models, 4 incremental models in 0 hours 1 minutes and 12.03 seconds (72.03s).
+[2023-06-21T00:45:35.544+0000] {subprocess.py:93} INFO - [0m00:45:35
+[2023-06-21T00:45:35.553+0000] {subprocess.py:93} INFO - [0m00:45:35  [32mCompleted successfully[0m
+[2023-06-21T00:45:35.556+0000] {subprocess.py:93} INFO - [0m00:45:35
+[2023-06-21T00:45:35.562+0000] {subprocess.py:93} INFO - [0m00:45:35  Done. PASS=12 WARN=0 ERROR=0 SKIP=0 TOTAL=12
+[2023-06-21T00:45:36.184+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-06-21T00:45:36.282+0000] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=dbt_ipflow_dag, task_id=dbt_run_3, execution_date=20230621T004417, start_date=20230621T004420, end_date=20230621T004536
+[2023-06-21T00:45:36.394+0000] {local_task_job.py:159} INFO - Task exited with return code 0
+[2023-06-21T00:45:36.420+0000] {taskinstance.py:2582} INFO - 0 downstream tasks scheduled from follow-on schedule check

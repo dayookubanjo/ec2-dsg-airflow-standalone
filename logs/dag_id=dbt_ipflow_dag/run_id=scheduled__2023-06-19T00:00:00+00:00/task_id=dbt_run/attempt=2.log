@@ -1,0 +1,34 @@
+[2023-06-20T17:06:09.603+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.dbt_run scheduled__2023-06-19T00:00:00+00:00 [queued]>
+[2023-06-20T17:06:09.612+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.dbt_run scheduled__2023-06-19T00:00:00+00:00 [queued]>
+[2023-06-20T17:06:09.614+0000] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-20T17:06:09.615+0000] {taskinstance.py:1284} INFO - Starting attempt 2 of 2
+[2023-06-20T17:06:09.616+0000] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-20T17:06:09.626+0000] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): dbt_run> on 2023-06-19 00:00:00+00:00
+[2023-06-20T17:06:09.632+0000] {standard_task_runner.py:55} INFO - Started process 1042 to run task
+[2023-06-20T17:06:09.637+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dbt_ipflow_dag', 'dbt_run', 'scheduled__2023-06-19T00:00:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/dbt_ip_flow_dag.py', '--cfg-path', '/tmp/tmpwba3zw48']
+[2023-06-20T17:06:09.640+0000] {standard_task_runner.py:83} INFO - Job 6: Subtask dbt_run
+[2023-06-20T17:06:09.921+0000] {task_command.py:389} INFO - Running <TaskInstance: dbt_ipflow_dag.dbt_run scheduled__2023-06-19T00:00:00+00:00 [running]> on host 997d3df41c0b
+[2023-06-20T17:06:09.974+0000] {taskinstance.py:1513} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dbt_ipflow_dag
+AIRFLOW_CTX_TASK_ID=dbt_run
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-19T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-06-19T00:00:00+00:00
+[2023-06-20T17:06:09.977+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-06-20T17:06:09.978+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'source $PATH_TO_DBT_VENV && dbt run --models .']
+[2023-06-20T17:06:09.992+0000] {subprocess.py:86} INFO - Output:
+[2023-06-20T17:06:10.003+0000] {subprocess.py:93} INFO - /bin/bash: line 1: /dbt_venv/bin/dbt: No such file or directory
+[2023-06-20T17:06:10.004+0000] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-06-20T17:06:10.055+0000] {taskinstance.py:1772} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 197, in execute
+    f"Bash command failed. The command returned a non-zero exit code {result.exit_code}."
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-06-20T17:06:10.060+0000] {taskinstance.py:1327} INFO - Marking task as FAILED. dag_id=dbt_ipflow_dag, task_id=dbt_run, execution_date=20230619T000000, start_date=20230620T170609, end_date=20230620T170610
+[2023-06-20T17:06:10.070+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 6 for task dbt_run (Bash command failed. The command returned a non-zero exit code 1.; 1042)
+[2023-06-20T17:06:10.105+0000] {local_task_job.py:159} INFO - Task exited with return code 1
+[2023-06-20T17:06:10.128+0000] {taskinstance.py:2582} INFO - 0 downstream tasks scheduled from follow-on schedule check

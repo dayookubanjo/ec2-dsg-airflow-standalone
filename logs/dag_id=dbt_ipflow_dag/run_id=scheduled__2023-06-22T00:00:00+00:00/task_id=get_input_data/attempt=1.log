@@ -1,0 +1,36 @@
+[2023-06-23T00:50:07.706+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-06-22T00:00:00+00:00 [queued]>
+[2023-06-23T00:50:07.714+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-06-22T00:00:00+00:00 [queued]>
+[2023-06-23T00:50:07.717+0000] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-23T00:50:07.718+0000] {taskinstance.py:1284} INFO - Starting attempt 1 of 1
+[2023-06-23T00:50:07.719+0000] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-23T00:50:07.731+0000] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): get_input_data> on 2023-06-22 00:00:00+00:00
+[2023-06-23T00:50:07.738+0000] {standard_task_runner.py:55} INFO - Started process 28980 to run task
+[2023-06-23T00:50:07.744+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dbt_ipflow_dag', 'get_input_data', 'scheduled__2023-06-22T00:00:00+00:00', '--job-id', '52', '--raw', '--subdir', 'DAGS_FOLDER/dbt_ip_flow_dag.py', '--cfg-path', '/tmp/tmpxpynls8a']
+[2023-06-23T00:50:07.748+0000] {standard_task_runner.py:83} INFO - Job 52: Subtask get_input_data
+[2023-06-23T00:50:07.843+0000] {task_command.py:389} INFO - Running <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-06-22T00:00:00+00:00 [running]> on host 635f1a4ac995
+[2023-06-23T00:50:07.906+0000] {taskinstance.py:1513} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dbt_ipflow_dag
+AIRFLOW_CTX_TASK_ID=get_input_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-22T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-06-22T00:00:00+00:00
+[2023-06-23T00:50:07.911+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-06-23T00:50:07.912+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'dbt run --select stg_ipflow_input_data --profiles-dir /opt/***/dbt/dbt_dsg_app --project-dir /opt/***/dbt/dbt_dsg_app']
+[2023-06-23T00:50:07.929+0000] {subprocess.py:86} INFO - Output:
+[2023-06-23T00:50:10.160+0000] {subprocess.py:93} INFO - [0m00:50:10  Running with dbt=1.5.1
+[2023-06-23T00:50:10.836+0000] {subprocess.py:93} INFO - [0m00:50:10  Found 12 models, 2 tests, 0 snapshots, 0 analyses, 321 macros, 0 operations, 0 seed files, 0 sources, 0 exposures, 0 metrics, 0 groups
+[2023-06-23T00:50:10.843+0000] {subprocess.py:93} INFO - [0m00:50:10
+[2023-06-23T00:50:12.934+0000] {subprocess.py:93} INFO - [0m00:50:12  Concurrency: 4 threads (target='dev')
+[2023-06-23T00:50:12.943+0000] {subprocess.py:93} INFO - [0m00:50:12
+[2023-06-23T00:50:12.953+0000] {subprocess.py:93} INFO - [0m00:50:12  1 of 1 START sql table model DBT_POC.stg_ipflow_input_data ..................... [RUN]
+[2023-06-23T02:11:27.892+0000] {local_task_job.py:224} WARNING - State of this instance has been externally set to failed. Terminating instance.
+[2023-06-23T02:11:27.898+0000] {process_utils.py:133} INFO - Sending Signals.SIGTERM to group 28980. PIDs of all processes in the group: [28981, 28980]
+[2023-06-23T02:11:27.899+0000] {process_utils.py:84} INFO - Sending the signal Signals.SIGTERM to group 28980
+[2023-06-23T02:11:27.902+0000] {taskinstance.py:1483} ERROR - Received SIGTERM. Terminating subprocesses.
+[2023-06-23T02:11:27.905+0000] {subprocess.py:104} INFO - Sending SIGTERM signal to process group
+[2023-06-23T02:11:28.082+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=28981, status='terminated', started='00:50:07') (28981) terminated with exit code None
+[2023-06-23T02:11:28.092+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=28980, status='terminated', exitcode=0, started='00:50:06') (28980) terminated with exit code 0

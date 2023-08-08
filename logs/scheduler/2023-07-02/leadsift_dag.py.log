@@ -1,0 +1,1106 @@
+[2023-07-02T00:00:20.295+0000] {processor.py:153} INFO - Started process (PID=37645) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:00:20.297+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T00:00:20.298+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:00:20.298+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:00:20.405+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:00:20.442+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:00:20.442+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T00:00:20.460+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:00:20.460+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T00:00:20.474+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.182 seconds
+[2023-07-02T00:10:47.269+0000] {processor.py:153} INFO - Started process (PID=37693) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:10:47.274+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T00:10:47.277+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:10:47.277+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:10:47.460+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:10:47.489+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:10:47.489+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T00:10:47.521+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:10:47.520+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T00:10:47.537+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.275 seconds
+[2023-07-02T00:27:42.839+0000] {processor.py:153} INFO - Started process (PID=37750) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:27:42.841+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T00:27:42.842+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:27:42.842+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:27:42.948+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:27:42.966+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:27:42.966+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T00:27:42.985+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:27:42.985+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T00:27:42.999+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.163 seconds
+[2023-07-02T00:28:13.462+0000] {processor.py:153} INFO - Started process (PID=37792) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:28:13.464+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T00:28:13.466+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:28:13.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:28:13.569+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:28:13.585+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:28:13.585+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T00:28:13.604+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:28:13.604+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T00:28:13.619+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T00:45:09.136+0000] {processor.py:153} INFO - Started process (PID=37852) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:45:09.139+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T00:45:09.140+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:45:09.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:45:09.248+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:45:09.265+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:45:09.265+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T00:45:09.281+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:45:09.281+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T00:45:09.296+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.163 seconds
+[2023-07-02T00:45:40.244+0000] {processor.py:153} INFO - Started process (PID=37903) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:45:40.246+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T00:45:40.250+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:45:40.249+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:45:40.379+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T00:45:40.396+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:45:40.396+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T00:45:40.414+0000] {logging_mixin.py:137} INFO - [2023-07-02T00:45:40.414+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T00:45:40.435+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.195 seconds
+[2023-07-02T01:02:32.061+0000] {processor.py:153} INFO - Started process (PID=37952) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:02:32.064+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:02:32.065+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:02:32.065+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:02:32.183+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:02:32.201+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:02:32.201+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:02:32.221+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:02:32.220+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:02:32.235+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.178 seconds
+[2023-07-02T01:19:07.889+0000] {processor.py:153} INFO - Started process (PID=38008) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:19:07.891+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:19:07.892+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:19:07.892+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:19:08.004+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:19:08.024+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:19:08.023+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:19:08.043+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:19:08.043+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:19:08.059+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.173 seconds
+[2023-07-02T01:19:38.326+0000] {processor.py:153} INFO - Started process (PID=38051) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:19:38.328+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:19:38.330+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:19:38.330+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:19:38.441+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:19:38.522+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:19:38.522+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:19:38.539+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:19:38.539+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:19:38.553+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.230 seconds
+[2023-07-02T01:36:18.220+0000] {processor.py:153} INFO - Started process (PID=38110) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:36:18.222+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:36:18.224+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:36:18.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:36:18.334+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:36:18.352+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:36:18.352+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:36:18.378+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:36:18.378+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:36:18.392+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.176 seconds
+[2023-07-02T01:36:49.092+0000] {processor.py:153} INFO - Started process (PID=38164) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:36:49.097+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:36:49.101+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:36:49.100+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:36:49.246+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:36:49.266+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:36:49.265+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:36:49.289+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:36:49.289+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:36:49.306+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.217 seconds
+[2023-07-02T01:54:15.983+0000] {processor.py:153} INFO - Started process (PID=38212) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:54:15.985+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:54:15.987+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:54:15.987+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:54:16.088+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:54:16.107+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:54:16.107+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:54:16.125+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:54:16.125+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:54:16.141+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T01:54:47.185+0000] {processor.py:153} INFO - Started process (PID=38267) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:54:47.187+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T01:54:47.188+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:54:47.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:54:47.300+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T01:54:47.389+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:54:47.389+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T01:54:47.409+0000] {logging_mixin.py:137} INFO - [2023-07-02T01:54:47.409+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T01:54:47.426+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.244 seconds
+[2023-07-02T02:11:53.893+0000] {processor.py:153} INFO - Started process (PID=38312) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:11:53.896+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:11:53.898+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:11:53.898+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:11:54.103+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:11:54.153+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:11:54.152+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:11:54.179+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:11:54.179+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:11:54.203+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.314 seconds
+[2023-07-02T02:12:24.652+0000] {processor.py:153} INFO - Started process (PID=38370) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:12:24.654+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:12:24.655+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:12:24.655+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:12:24.760+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:12:24.775+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:12:24.775+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:12:24.792+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:12:24.792+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:12:24.807+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.158 seconds
+[2023-07-02T02:12:56.367+0000] {processor.py:153} INFO - Started process (PID=38426) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:12:56.370+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:12:56.372+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:12:56.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:12:56.473+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:12:56.489+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:12:56.489+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:12:56.518+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:12:56.518+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:12:56.534+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.169 seconds
+[2023-07-02T02:13:28.340+0000] {processor.py:153} INFO - Started process (PID=38485) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:13:28.346+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:13:28.350+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:13:28.349+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:13:28.466+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:13:28.484+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:13:28.484+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:13:28.505+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:13:28.504+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:13:28.529+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.193 seconds
+[2023-07-02T02:13:58.828+0000] {processor.py:153} INFO - Started process (PID=38529) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:13:58.830+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:13:58.831+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:13:58.831+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:13:58.940+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:13:58.956+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:13:58.956+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:13:58.973+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:13:58.973+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:13:58.987+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.162 seconds
+[2023-07-02T02:14:29.985+0000] {processor.py:153} INFO - Started process (PID=38586) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:14:29.987+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:14:29.989+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:14:29.989+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:14:30.095+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:14:30.112+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:14:30.111+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:14:30.130+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:14:30.130+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:14:30.147+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.165 seconds
+[2023-07-02T02:32:46.683+0000] {processor.py:153} INFO - Started process (PID=38632) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:32:46.685+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:32:46.686+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:32:46.686+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:32:46.821+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:32:46.838+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:32:46.838+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:32:46.857+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:32:46.857+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:32:46.871+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.193 seconds
+[2023-07-02T02:33:17.937+0000] {processor.py:153} INFO - Started process (PID=38688) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:33:17.939+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:33:17.941+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:33:17.941+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:33:18.149+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:33:18.165+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:33:18.165+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:33:18.183+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:33:18.183+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:33:18.198+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.264 seconds
+[2023-07-02T02:33:49.049+0000] {processor.py:153} INFO - Started process (PID=38734) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:33:49.051+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:33:49.052+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:33:49.052+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:33:49.172+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:33:49.187+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:33:49.187+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:33:49.203+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:33:49.203+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:33:49.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.170 seconds
+[2023-07-02T02:34:19.820+0000] {processor.py:153} INFO - Started process (PID=38790) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:34:19.822+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:34:19.824+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:34:19.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:34:19.935+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:34:19.953+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:34:19.952+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:34:19.973+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:34:19.973+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:34:19.986+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.168 seconds
+[2023-07-02T02:34:50.692+0000] {processor.py:153} INFO - Started process (PID=38847) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:34:50.697+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:34:50.699+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:34:50.699+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:34:50.804+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:34:50.826+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:34:50.826+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:34:50.845+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:34:50.845+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:34:50.858+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.169 seconds
+[2023-07-02T02:52:03.430+0000] {processor.py:153} INFO - Started process (PID=38892) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:52:03.432+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:52:03.433+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:52:03.433+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:52:03.555+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:52:03.575+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:52:03.575+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:52:03.598+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:52:03.598+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:52:03.612+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.186 seconds
+[2023-07-02T02:52:34.395+0000] {processor.py:153} INFO - Started process (PID=38950) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:52:34.398+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:52:34.400+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:52:34.400+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:52:34.522+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:52:34.546+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:52:34.545+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:52:34.563+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:52:34.563+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:52:34.580+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.188 seconds
+[2023-07-02T02:53:04.853+0000] {processor.py:153} INFO - Started process (PID=38994) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:53:04.855+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:53:04.865+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:53:04.865+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:53:04.968+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:53:04.984+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:53:04.984+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:53:05.010+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:53:05.010+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:53:05.023+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.173 seconds
+[2023-07-02T02:53:35.614+0000] {processor.py:153} INFO - Started process (PID=39051) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:53:35.616+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:53:35.618+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:53:35.618+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:53:35.719+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:53:35.735+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:53:35.735+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:53:35.752+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:53:35.752+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:53:35.765+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.154 seconds
+[2023-07-02T02:54:07.039+0000] {processor.py:153} INFO - Started process (PID=39107) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:54:07.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T02:54:07.042+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:54:07.042+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:54:07.156+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T02:54:07.215+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:54:07.214+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T02:54:07.236+0000] {logging_mixin.py:137} INFO - [2023-07-02T02:54:07.236+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T02:54:07.248+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.214 seconds
+[2023-07-02T03:11:16.558+0000] {processor.py:153} INFO - Started process (PID=39154) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:11:16.560+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T03:11:16.562+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:11:16.561+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:11:16.668+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:11:16.685+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:11:16.684+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T03:11:16.702+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:11:16.702+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T03:11:16.716+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T03:11:48.470+0000] {processor.py:153} INFO - Started process (PID=39212) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:11:48.474+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T03:11:48.476+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:11:48.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:11:48.662+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:11:48.688+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:11:48.687+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T03:11:48.717+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:11:48.717+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T03:11:48.740+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.276 seconds
+[2023-07-02T03:29:07.489+0000] {processor.py:153} INFO - Started process (PID=39257) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:29:07.491+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T03:29:07.493+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:29:07.492+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:29:07.604+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:29:07.620+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:29:07.620+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T03:29:07.638+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:29:07.637+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T03:29:07.650+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.165 seconds
+[2023-07-02T03:29:39.074+0000] {processor.py:153} INFO - Started process (PID=39314) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:29:39.077+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T03:29:39.078+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:29:39.078+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:29:39.190+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:29:39.206+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:29:39.206+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T03:29:39.293+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:29:39.293+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T03:29:39.306+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.235 seconds
+[2023-07-02T03:47:08.268+0000] {processor.py:153} INFO - Started process (PID=39359) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:47:08.270+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T03:47:08.272+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:47:08.272+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:47:08.379+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:47:08.394+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:47:08.394+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T03:47:08.411+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:47:08.411+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T03:47:08.425+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.160 seconds
+[2023-07-02T03:47:38.771+0000] {processor.py:153} INFO - Started process (PID=39413) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:47:38.773+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T03:47:38.776+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:47:38.776+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:47:38.897+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T03:47:38.915+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:47:38.915+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T03:47:38.933+0000] {logging_mixin.py:137} INFO - [2023-07-02T03:47:38.933+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T03:47:38.948+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.181 seconds
+[2023-07-02T04:03:09.491+0000] {processor.py:153} INFO - Started process (PID=39469) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:03:09.493+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T04:03:09.495+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:03:09.495+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:03:09.654+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:03:09.687+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:03:09.686+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T04:03:09.709+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:03:09.709+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T04:03:09.736+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.248 seconds
+[2023-07-02T04:03:40.083+0000] {processor.py:153} INFO - Started process (PID=39515) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:03:40.086+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T04:03:40.087+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:03:40.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:03:40.202+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:03:40.218+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:03:40.218+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T04:03:40.235+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:03:40.235+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T04:03:40.249+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.169 seconds
+[2023-07-02T04:20:38.594+0000] {processor.py:153} INFO - Started process (PID=39574) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:20:38.597+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T04:20:38.598+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:20:38.598+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:20:38.711+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:20:38.729+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:20:38.729+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T04:20:38.755+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:20:38.755+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T04:20:38.773+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.181 seconds
+[2023-07-02T04:37:09.557+0000] {processor.py:153} INFO - Started process (PID=39619) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:37:09.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T04:37:09.560+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:37:09.560+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:37:09.668+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:37:09.691+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:37:09.691+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T04:37:09.713+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:37:09.713+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T04:37:09.730+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.176 seconds
+[2023-07-02T04:37:40.312+0000] {processor.py:153} INFO - Started process (PID=39676) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:37:40.315+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T04:37:40.316+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:37:40.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:37:40.499+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:37:40.516+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:37:40.515+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T04:37:40.542+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:37:40.542+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T04:37:40.556+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.247 seconds
+[2023-07-02T04:53:53.705+0000] {processor.py:153} INFO - Started process (PID=39721) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:53:53.707+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T04:53:53.709+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:53:53.709+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:53:53.826+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T04:53:53.842+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:53:53.842+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T04:53:53.860+0000] {logging_mixin.py:137} INFO - [2023-07-02T04:53:53.860+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T04:53:53.878+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.176 seconds
+[2023-07-02T05:01:44.693+0000] {processor.py:153} INFO - Started process (PID=39778) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:01:44.695+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:01:44.749+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:01:44.749+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:01:44.863+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:01:44.882+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:01:44.882+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:01:44.901+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:01:44.901+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:01:44.915+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.225 seconds
+[2023-07-02T05:02:15.815+0000] {processor.py:153} INFO - Started process (PID=39833) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:02:15.818+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:02:15.826+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:02:15.826+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:02:15.944+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:02:15.966+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:02:15.966+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:02:15.985+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:02:15.985+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:02:16.002+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.193 seconds
+[2023-07-02T05:18:08.154+0000] {processor.py:153} INFO - Started process (PID=39880) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:18:08.156+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:18:08.158+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:18:08.157+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:18:08.264+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:18:08.282+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:18:08.282+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:18:08.371+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:18:08.371+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:18:08.384+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.233 seconds
+[2023-07-02T05:18:39.118+0000] {processor.py:153} INFO - Started process (PID=39937) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:18:39.120+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:18:39.129+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:18:39.129+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:18:39.238+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:18:39.257+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:18:39.256+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:18:39.278+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:18:39.278+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:18:39.293+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.178 seconds
+[2023-07-02T05:35:30.156+0000] {processor.py:153} INFO - Started process (PID=39982) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:35:30.158+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:35:30.160+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:35:30.160+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:35:30.287+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:35:30.308+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:35:30.308+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:35:30.329+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:35:30.329+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:35:30.345+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.191 seconds
+[2023-07-02T05:36:00.660+0000] {processor.py:153} INFO - Started process (PID=40037) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:36:00.663+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:36:00.665+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:36:00.665+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:36:00.765+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:36:00.845+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:36:00.844+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:36:00.860+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:36:00.860+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:36:00.872+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.215 seconds
+[2023-07-02T05:51:38.467+0000] {processor.py:153} INFO - Started process (PID=40095) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:51:38.470+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T05:51:38.472+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:51:38.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:51:38.597+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T05:51:38.624+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:51:38.624+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T05:51:38.647+0000] {logging_mixin.py:137} INFO - [2023-07-02T05:51:38.647+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T05:51:38.665+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.201 seconds
+[2023-07-02T06:07:26.201+0000] {processor.py:153} INFO - Started process (PID=40141) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:07:26.203+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:07:26.205+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:07:26.205+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:07:26.316+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:07:26.331+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:07:26.331+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:07:26.350+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:07:26.350+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:07:26.363+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.165 seconds
+[2023-07-02T06:07:56.688+0000] {processor.py:153} INFO - Started process (PID=40196) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:07:56.690+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:07:56.692+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:07:56.691+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:07:56.813+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:07:56.898+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:07:56.898+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:07:56.915+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:07:56.914+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:07:56.927+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.243 seconds
+[2023-07-02T06:24:12.426+0000] {processor.py:153} INFO - Started process (PID=40242) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:24:12.428+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:24:12.430+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:24:12.430+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:24:12.556+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:24:12.574+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:24:12.574+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:24:12.592+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:24:12.591+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:24:12.606+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.183 seconds
+[2023-07-02T06:24:42.919+0000] {processor.py:153} INFO - Started process (PID=40297) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:24:42.928+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:24:42.930+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:24:42.930+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:24:43.043+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:24:43.063+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:24:43.063+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:24:43.081+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:24:43.081+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:24:43.095+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.179 seconds
+[2023-07-02T06:40:38.115+0000] {processor.py:153} INFO - Started process (PID=40353) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:40:38.117+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:40:38.120+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:40:38.120+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:40:38.362+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:40:38.383+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:40:38.383+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:40:38.419+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:40:38.419+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:40:38.443+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.331 seconds
+[2023-07-02T06:41:09.694+0000] {processor.py:153} INFO - Started process (PID=40402) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:41:09.697+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:41:09.699+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:41:09.699+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:41:09.815+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:41:09.831+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:41:09.830+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:41:09.846+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:41:09.846+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:41:09.858+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.167 seconds
+[2023-07-02T06:58:26.286+0000] {processor.py:153} INFO - Started process (PID=40458) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:58:26.288+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T06:58:26.290+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:58:26.289+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:58:26.395+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T06:58:26.410+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:58:26.410+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T06:58:26.427+0000] {logging_mixin.py:137} INFO - [2023-07-02T06:58:26.427+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T06:58:26.441+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.158 seconds
+[2023-07-02T07:16:31.791+0000] {processor.py:153} INFO - Started process (PID=40503) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:16:31.793+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T07:16:31.794+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:16:31.794+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:16:31.909+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:16:31.925+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:16:31.925+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T07:16:31.947+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:16:31.947+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T07:16:31.962+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.174 seconds
+[2023-07-02T07:17:02.289+0000] {processor.py:153} INFO - Started process (PID=40558) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:17:02.291+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T07:17:02.292+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:17:02.292+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:17:02.397+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:17:02.413+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:17:02.412+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T07:17:02.430+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:17:02.430+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T07:17:02.445+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.160 seconds
+[2023-07-02T07:23:57.794+0000] {processor.py:153} INFO - Started process (PID=40616) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:23:57.796+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T07:23:57.807+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:23:57.807+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:23:57.937+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:23:57.964+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:23:57.964+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T07:23:57.986+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:23:57.986+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T07:23:58.003+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.212 seconds
+[2023-07-02T07:40:20.500+0000] {processor.py:153} INFO - Started process (PID=40661) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:40:20.502+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T07:40:20.504+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:40:20.504+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:40:20.615+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:40:20.631+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:40:20.631+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T07:40:20.648+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:40:20.648+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T07:40:20.663+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.166 seconds
+[2023-07-02T07:40:50.948+0000] {processor.py:153} INFO - Started process (PID=40716) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:40:50.950+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T07:40:50.951+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:40:50.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:40:51.044+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:40:51.060+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:40:51.060+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T07:40:51.077+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:40:51.077+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T07:40:51.089+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.144 seconds
+[2023-07-02T07:56:50.741+0000] {processor.py:153} INFO - Started process (PID=40764) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:56:50.743+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T07:56:50.744+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:56:50.744+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:56:50.858+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T07:56:50.876+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:56:50.875+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T07:56:50.895+0000] {logging_mixin.py:137} INFO - [2023-07-02T07:56:50.895+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T07:56:50.909+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.171 seconds
+[2023-07-02T08:13:26.362+0000] {processor.py:153} INFO - Started process (PID=40820) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:13:26.364+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:13:26.365+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:13:26.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:13:26.465+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:13:26.483+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:13:26.483+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:13:26.501+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:13:26.501+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:13:26.516+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.157 seconds
+[2023-07-02T08:13:58.196+0000] {processor.py:153} INFO - Started process (PID=40876) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:13:58.198+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:13:58.199+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:13:58.199+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:13:58.313+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:13:58.329+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:13:58.329+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:13:58.346+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:13:58.346+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:13:58.360+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.167 seconds
+[2023-07-02T08:14:29.924+0000] {processor.py:153} INFO - Started process (PID=40928) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:14:29.925+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:14:29.927+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:14:29.927+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:14:30.044+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:14:30.061+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:14:30.061+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:14:30.158+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:14:30.158+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:14:30.175+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.255 seconds
+[2023-07-02T08:23:44.442+0000] {processor.py:153} INFO - Started process (PID=40978) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:23:44.444+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:23:44.445+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:23:44.445+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:23:44.552+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:23:44.569+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:23:44.569+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:23:44.587+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:23:44.587+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:23:44.607+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.169 seconds
+[2023-07-02T08:40:15.403+0000] {processor.py:153} INFO - Started process (PID=41023) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:40:15.405+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:40:15.408+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:40:15.408+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:40:15.517+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:40:15.532+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:40:15.532+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:40:15.549+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:40:15.549+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:40:15.564+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.163 seconds
+[2023-07-02T08:40:46.530+0000] {processor.py:153} INFO - Started process (PID=41080) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:40:46.532+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:40:46.534+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:40:46.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:40:46.641+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:40:46.657+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:40:46.657+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:40:46.675+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:40:46.674+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:40:46.688+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.162 seconds
+[2023-07-02T08:58:22.666+0000] {processor.py:153} INFO - Started process (PID=41136) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:58:22.668+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T08:58:22.670+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:58:22.670+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:58:22.774+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T08:58:22.791+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:58:22.791+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T08:58:22.809+0000] {logging_mixin.py:137} INFO - [2023-07-02T08:58:22.808+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T08:58:22.821+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.158 seconds
+[2023-07-02T09:15:17.012+0000] {processor.py:153} INFO - Started process (PID=41181) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:15:17.014+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T09:15:17.015+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:15:17.015+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:15:17.121+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:15:17.142+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:15:17.141+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T09:15:17.160+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:15:17.159+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T09:15:17.175+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.166 seconds
+[2023-07-02T09:15:47.653+0000] {processor.py:153} INFO - Started process (PID=41237) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:15:47.655+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T09:15:47.657+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:15:47.657+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:15:47.845+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:15:47.870+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:15:47.870+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T09:15:47.890+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:15:47.889+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T09:15:47.904+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.255 seconds
+[2023-07-02T09:31:51.519+0000] {processor.py:153} INFO - Started process (PID=41283) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:31:51.521+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T09:31:51.523+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:31:51.523+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:31:51.634+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:31:51.651+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:31:51.651+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T09:31:51.716+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:31:51.716+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T09:31:51.730+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.214 seconds
+[2023-07-02T09:32:22.454+0000] {processor.py:153} INFO - Started process (PID=41340) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:32:22.456+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T09:32:22.458+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:32:22.458+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:32:22.563+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:32:22.579+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:32:22.579+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T09:32:22.596+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:32:22.596+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T09:32:22.612+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T09:50:30.328+0000] {processor.py:153} INFO - Started process (PID=41394) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:50:30.332+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T09:50:30.333+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:50:30.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:50:30.581+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:50:30.603+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:50:30.603+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T09:50:30.625+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:50:30.625+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T09:50:30.642+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.319 seconds
+[2023-07-02T09:51:01.679+0000] {processor.py:153} INFO - Started process (PID=41441) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:51:01.681+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T09:51:01.685+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:51:01.685+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:51:01.806+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T09:51:01.823+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:51:01.823+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T09:51:01.839+0000] {logging_mixin.py:137} INFO - [2023-07-02T09:51:01.839+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T09:51:01.852+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.177 seconds
+[2023-07-02T10:06:49.373+0000] {processor.py:153} INFO - Started process (PID=41500) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:06:49.376+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T10:06:49.379+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:06:49.378+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:06:49.493+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:06:49.511+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:06:49.511+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T10:06:49.531+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:06:49.531+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T10:06:49.545+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.175 seconds
+[2023-07-02T10:22:28.143+0000] {processor.py:153} INFO - Started process (PID=41544) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:22:28.145+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T10:22:28.146+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:22:28.146+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:22:28.253+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:22:28.268+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:22:28.268+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T10:22:28.286+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:22:28.286+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T10:22:28.301+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T10:22:59.619+0000] {processor.py:153} INFO - Started process (PID=41600) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:22:59.622+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T10:22:59.623+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:22:59.623+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:22:59.808+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:22:59.823+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:22:59.822+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T10:22:59.840+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:22:59.840+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T10:22:59.854+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.241 seconds
+[2023-07-02T10:39:08.516+0000] {processor.py:153} INFO - Started process (PID=41657) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:39:08.518+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T10:39:08.520+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:39:08.520+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:39:08.650+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:39:08.686+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:39:08.686+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T10:39:08.706+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:39:08.705+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T10:39:08.721+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.208 seconds
+[2023-07-02T10:39:39.368+0000] {processor.py:153} INFO - Started process (PID=41702) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:39:39.377+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T10:39:39.379+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:39:39.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:39:39.481+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:39:39.500+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:39:39.500+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T10:39:39.519+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:39:39.519+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T10:39:39.533+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.168 seconds
+[2023-07-02T10:55:26.753+0000] {processor.py:153} INFO - Started process (PID=41758) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:55:26.756+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T10:55:26.757+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:55:26.757+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:55:26.859+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T10:55:26.875+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:55:26.874+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T10:55:26.895+0000] {logging_mixin.py:137} INFO - [2023-07-02T10:55:26.895+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T10:55:26.912+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T11:12:41.345+0000] {processor.py:153} INFO - Started process (PID=41804) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:12:41.347+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T11:12:41.350+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:12:41.350+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:12:41.479+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:12:41.501+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:12:41.501+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T11:12:41.531+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:12:41.531+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T11:12:41.552+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.209 seconds
+[2023-07-02T11:13:12.991+0000] {processor.py:153} INFO - Started process (PID=41860) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:13:12.993+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T11:13:12.994+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:13:12.994+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:13:13.100+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:13:13.118+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:13:13.118+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T11:13:13.137+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:13:13.137+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T11:13:13.150+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.163 seconds
+[2023-07-02T11:28:46.927+0000] {processor.py:153} INFO - Started process (PID=41917) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:28:46.929+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T11:28:47.024+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:28:47.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:28:47.130+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:28:47.155+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:28:47.155+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T11:28:47.174+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:28:47.174+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T11:28:47.188+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.264 seconds
+[2023-07-02T11:29:18.501+0000] {processor.py:153} INFO - Started process (PID=41963) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:29:18.504+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T11:29:18.505+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:29:18.505+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:29:18.642+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:29:18.661+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:29:18.661+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T11:29:18.681+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:29:18.680+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T11:29:18.704+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.206 seconds
+[2023-07-02T11:46:17.562+0000] {processor.py:153} INFO - Started process (PID=42019) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:46:17.564+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T11:46:17.565+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:46:17.565+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:46:17.671+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T11:46:17.690+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:46:17.690+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T11:46:17.708+0000] {logging_mixin.py:137} INFO - [2023-07-02T11:46:17.708+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T11:46:17.722+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.163 seconds
+[2023-07-02T12:02:13.077+0000] {processor.py:153} INFO - Started process (PID=42064) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:02:13.079+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:02:13.168+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:02:13.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:02:13.300+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:02:13.318+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:02:13.318+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:02:13.343+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:02:13.343+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:02:13.362+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.289 seconds
+[2023-07-02T12:02:43.884+0000] {processor.py:153} INFO - Started process (PID=42121) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:02:43.891+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:02:43.892+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:02:43.892+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:02:43.990+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:02:44.006+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:02:44.005+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:02:44.022+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:02:44.022+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:02:44.036+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.156 seconds
+[2023-07-02T12:20:08.828+0000] {processor.py:153} INFO - Started process (PID=42178) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:20:08.830+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:20:08.832+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:20:08.832+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:20:08.951+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:20:08.978+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:20:08.978+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:20:09.004+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:20:09.004+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:20:09.030+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.206 seconds
+[2023-07-02T12:20:39.316+0000] {processor.py:153} INFO - Started process (PID=42222) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:20:39.318+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:20:39.319+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:20:39.319+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:20:39.441+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:20:39.459+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:20:39.459+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:20:39.475+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:20:39.475+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:20:39.488+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.175 seconds
+[2023-07-02T12:38:34.036+0000] {processor.py:153} INFO - Started process (PID=42279) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:38:34.038+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:38:34.040+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:38:34.040+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:38:34.231+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:38:34.249+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:38:34.249+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:38:34.266+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:38:34.266+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:38:34.280+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.247 seconds
+[2023-07-02T12:39:05.361+0000] {processor.py:153} INFO - Started process (PID=42333) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:39:05.363+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:39:05.365+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:39:05.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:39:05.481+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:39:05.513+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:39:05.513+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:39:05.538+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:39:05.538+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:39:05.558+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.201 seconds
+[2023-07-02T12:55:26.056+0000] {processor.py:153} INFO - Started process (PID=42381) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:55:26.066+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T12:55:26.068+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:55:26.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:55:26.176+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T12:55:26.193+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:55:26.193+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T12:55:26.212+0000] {logging_mixin.py:137} INFO - [2023-07-02T12:55:26.212+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T12:55:26.225+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.172 seconds
+[2023-07-02T13:10:56.545+0000] {processor.py:153} INFO - Started process (PID=42438) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:10:56.547+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T13:10:56.636+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:10:56.636+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:10:56.769+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:10:56.787+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:10:56.787+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T13:10:56.811+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:10:56.811+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T13:10:56.829+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.287 seconds
+[2023-07-02T13:11:27.326+0000] {processor.py:153} INFO - Started process (PID=42482) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:11:27.328+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T13:11:27.329+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:11:27.329+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:11:27.436+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:11:27.457+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:11:27.457+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T13:11:27.477+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:11:27.476+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T13:11:27.492+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.169 seconds
+[2023-07-02T13:27:01.313+0000] {processor.py:153} INFO - Started process (PID=42539) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:27:01.315+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T13:27:01.316+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:27:01.316+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:27:01.421+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:27:01.437+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:27:01.437+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T13:27:01.454+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:27:01.454+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T13:27:01.468+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.159 seconds
+[2023-07-02T13:27:33.972+0000] {processor.py:153} INFO - Started process (PID=42596) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:27:33.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T13:27:33.977+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:27:33.977+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:27:34.128+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:27:34.148+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:27:34.148+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T13:27:34.166+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:27:34.166+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T13:27:34.251+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.285 seconds
+[2023-07-02T13:44:26.230+0000] {processor.py:153} INFO - Started process (PID=42640) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:44:26.232+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T13:44:26.241+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:44:26.241+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:44:26.348+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T13:44:26.364+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:44:26.364+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T13:44:26.391+0000] {logging_mixin.py:137} INFO - [2023-07-02T13:44:26.391+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T13:44:26.407+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.180 seconds
+[2023-07-02T14:00:05.349+0000] {processor.py:153} INFO - Started process (PID=42695) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:00:05.351+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:00:05.353+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:00:05.353+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:00:05.483+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:00:05.514+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:00:05.513+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:00:05.533+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:00:05.533+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:00:05.548+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.202 seconds
+[2023-07-02T14:00:36.277+0000] {processor.py:153} INFO - Started process (PID=42739) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:00:36.279+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:00:36.280+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:00:36.280+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:00:36.382+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:00:36.398+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:00:36.398+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:00:36.417+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:00:36.417+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:00:36.430+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.157 seconds
+[2023-07-02T14:17:50.785+0000] {processor.py:153} INFO - Started process (PID=42796) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:17:50.788+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:17:50.790+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:17:50.790+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:17:50.897+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:17:50.913+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:17:50.913+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:17:50.934+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:17:50.933+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:17:50.948+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.166 seconds
+[2023-07-02T14:18:22.000+0000] {processor.py:153} INFO - Started process (PID=42840) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:18:22.009+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:18:22.010+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:18:22.010+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:18:22.115+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:18:22.135+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:18:22.135+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:18:22.155+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:18:22.155+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:18:22.169+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.171 seconds
+[2023-07-02T14:35:49.019+0000] {processor.py:153} INFO - Started process (PID=42897) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:35:49.037+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:35:49.039+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:35:49.039+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:35:49.155+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:35:49.190+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:35:49.189+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:35:49.210+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:35:49.210+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:35:49.225+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.210 seconds
+[2023-07-02T14:51:28.371+0000] {processor.py:153} INFO - Started process (PID=42942) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:51:28.374+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:51:28.375+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:51:28.375+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:51:28.524+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:51:28.554+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:51:28.554+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:51:28.591+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:51:28.590+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:51:28.618+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.251 seconds
+[2023-07-02T14:51:58.988+0000] {processor.py:153} INFO - Started process (PID=42996) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:51:58.990+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T14:51:58.991+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:51:58.991+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:51:59.108+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T14:51:59.132+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:51:59.132+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T14:51:59.149+0000] {logging_mixin.py:137} INFO - [2023-07-02T14:51:59.149+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T14:51:59.162+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.177 seconds
+[2023-07-02T15:08:08.109+0000] {processor.py:153} INFO - Started process (PID=43057) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:08:08.111+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T15:08:08.112+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:08:08.112+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:08:08.212+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:08:08.228+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:08:08.228+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T15:08:08.245+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:08:08.245+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T15:08:08.259+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.153 seconds
+[2023-07-02T15:23:39.078+0000] {processor.py:153} INFO - Started process (PID=43102) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:23:39.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T15:23:39.082+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:23:39.082+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:23:39.187+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:23:39.203+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:23:39.203+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T15:23:39.221+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:23:39.221+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T15:23:39.234+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.158 seconds
+[2023-07-02T15:24:09.965+0000] {processor.py:153} INFO - Started process (PID=43159) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:24:09.969+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T15:24:09.972+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:24:09.972+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:24:10.073+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:24:10.169+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:24:10.169+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T15:24:10.186+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:24:10.186+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T15:24:10.199+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.237 seconds
+[2023-07-02T15:42:26.294+0000] {processor.py:153} INFO - Started process (PID=43204) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:42:26.296+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T15:42:26.298+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:42:26.298+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:42:26.422+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:42:26.441+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:42:26.441+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T15:42:26.459+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:42:26.459+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T15:42:26.472+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.181 seconds
+[2023-07-02T15:42:57.047+0000] {processor.py:153} INFO - Started process (PID=43256) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:42:57.049+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T15:42:57.051+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:42:57.050+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:42:57.167+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T15:42:57.194+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:42:57.194+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T15:42:57.214+0000] {logging_mixin.py:137} INFO - [2023-07-02T15:42:57.214+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T15:42:57.232+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.188 seconds
+[2023-07-02T16:01:03.079+0000] {processor.py:153} INFO - Started process (PID=43316) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:01:03.082+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:01:03.086+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:01:03.086+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:01:03.210+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:01:03.228+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:01:03.228+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:01:03.246+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:01:03.246+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:01:03.258+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.183 seconds
+[2023-07-02T16:01:34.321+0000] {processor.py:153} INFO - Started process (PID=43360) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:01:34.323+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:01:34.325+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:01:34.325+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:01:34.434+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:01:34.451+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:01:34.451+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:01:34.472+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:01:34.472+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:01:34.542+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.224 seconds
+[2023-07-02T16:19:41.358+0000] {processor.py:153} INFO - Started process (PID=43417) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:19:41.361+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:19:41.363+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:19:41.363+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:19:41.489+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:19:41.510+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:19:41.509+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:19:41.533+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:19:41.533+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:19:41.547+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.195 seconds
+[2023-07-02T16:20:11.876+0000] {processor.py:153} INFO - Started process (PID=43461) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:20:11.878+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:20:11.880+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:20:11.879+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:20:12.024+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:20:12.045+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:20:12.045+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:20:12.061+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:20:12.061+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:20:12.074+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.201 seconds
+[2023-07-02T16:36:41.263+0000] {processor.py:153} INFO - Started process (PID=43519) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:36:41.265+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:36:41.266+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:36:41.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:36:41.372+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:36:41.390+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:36:41.390+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:36:41.407+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:36:41.407+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:36:41.420+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T16:52:53.811+0000] {processor.py:153} INFO - Started process (PID=43576) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:52:53.815+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:52:53.817+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:52:53.817+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:52:53.931+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:52:53.948+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:52:53.948+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:52:53.966+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:52:53.966+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:52:53.984+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.177 seconds
+[2023-07-02T16:53:24.292+0000] {processor.py:153} INFO - Started process (PID=43619) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:53:24.307+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T16:53:24.310+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:53:24.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:53:24.461+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T16:53:24.479+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:53:24.479+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T16:53:24.502+0000] {logging_mixin.py:137} INFO - [2023-07-02T16:53:24.501+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T16:53:24.518+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.230 seconds
+[2023-07-02T17:09:02.457+0000] {processor.py:153} INFO - Started process (PID=43677) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:09:02.460+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:09:02.461+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:09:02.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:09:02.694+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:09:02.716+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:09:02.716+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:09:02.737+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:09:02.737+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:09:02.757+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.303 seconds
+[2023-07-02T17:09:33.036+0000] {processor.py:153} INFO - Started process (PID=43720) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:09:33.038+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:09:33.040+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:09:33.040+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:09:33.149+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:09:33.167+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:09:33.166+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:09:33.185+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:09:33.185+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:09:33.200+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.167 seconds
+[2023-07-02T17:25:25.241+0000] {processor.py:153} INFO - Started process (PID=43778) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:25:25.244+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:25:25.246+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:25:25.245+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:25:25.345+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:25:25.361+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:25:25.361+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:25:25.378+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:25:25.378+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:25:25.393+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.158 seconds
+[2023-07-02T17:25:57.078+0000] {processor.py:153} INFO - Started process (PID=43834) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:25:57.081+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:25:57.083+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:25:57.083+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:25:57.192+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:25:57.284+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:25:57.284+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:25:57.307+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:25:57.307+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:25:57.321+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.246 seconds
+[2023-07-02T17:26:28.034+0000] {processor.py:153} INFO - Started process (PID=43879) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:26:28.036+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:26:28.038+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:26:28.038+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:26:28.157+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:26:28.174+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:26:28.173+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:26:28.194+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:26:28.194+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:26:28.209+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.178 seconds
+[2023-07-02T17:41:52.456+0000] {processor.py:153} INFO - Started process (PID=43935) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:41:52.458+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:41:52.461+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:41:52.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:41:52.566+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:41:52.584+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:41:52.584+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:41:52.602+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:41:52.602+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:41:52.616+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.164 seconds
+[2023-07-02T17:59:53.227+0000] {processor.py:153} INFO - Started process (PID=43980) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:59:53.231+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T17:59:53.233+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:59:53.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:59:53.363+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T17:59:53.382+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:59:53.382+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T17:59:53.406+0000] {logging_mixin.py:137} INFO - [2023-07-02T17:59:53.406+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T17:59:53.425+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.208 seconds
+[2023-07-02T18:00:24.173+0000] {processor.py:153} INFO - Started process (PID=44038) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:00:24.180+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T18:00:24.181+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:00:24.181+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:00:24.284+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:00:24.301+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:00:24.301+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T18:00:24.319+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:00:24.319+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T18:00:24.337+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.168 seconds
+[2023-07-02T18:16:43.198+0000] {processor.py:153} INFO - Started process (PID=44092) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:16:43.200+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T18:16:43.202+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:16:43.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:16:43.364+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:16:43.393+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:16:43.393+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T18:16:43.417+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:16:43.417+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T18:16:43.435+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.240 seconds
+[2023-07-02T18:33:51.079+0000] {processor.py:153} INFO - Started process (PID=44140) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:33:51.081+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T18:33:51.084+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:33:51.084+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:33:51.189+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:33:51.205+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:33:51.205+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T18:33:51.223+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:33:51.223+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T18:33:51.236+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.160 seconds
+[2023-07-02T18:34:22.534+0000] {processor.py:153} INFO - Started process (PID=44197) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:34:22.536+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T18:34:22.537+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:34:22.537+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:34:22.650+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:34:22.671+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:34:22.671+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T18:34:22.774+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:34:22.774+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T18:34:22.788+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.257 seconds
+[2023-07-02T18:50:44.016+0000] {processor.py:153} INFO - Started process (PID=44242) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:50:44.019+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T18:50:44.021+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:50:44.021+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:50:44.137+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:50:44.157+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:50:44.156+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T18:50:44.178+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:50:44.178+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T18:50:44.194+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.180 seconds
+[2023-07-02T18:51:14.933+0000] {processor.py:153} INFO - Started process (PID=44299) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:51:14.935+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T18:51:14.937+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:51:14.936+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:51:15.102+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T18:51:15.127+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:51:15.126+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T18:51:15.145+0000] {logging_mixin.py:137} INFO - [2023-07-02T18:51:15.144+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T18:51:15.158+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.229 seconds
+[2023-07-02T19:07:31.994+0000] {processor.py:153} INFO - Started process (PID=44356) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:07:31.998+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T19:07:32.002+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:07:32.002+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:07:32.117+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:07:32.133+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:07:32.133+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T19:07:32.151+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:07:32.151+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T19:07:32.166+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.175 seconds
+[2023-07-02T19:25:44.969+0000] {processor.py:153} INFO - Started process (PID=44402) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:25:44.973+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T19:25:44.975+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:25:44.975+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:25:45.103+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:25:45.121+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:25:45.121+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T19:25:45.140+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:25:45.140+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T19:25:45.155+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.190 seconds
+[2023-07-02T19:26:15.436+0000] {processor.py:153} INFO - Started process (PID=44458) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:26:15.438+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T19:26:15.439+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:26:15.439+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:26:15.621+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:26:15.636+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:26:15.636+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T19:26:15.653+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:26:15.653+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T19:26:15.666+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.233 seconds
+[2023-07-02T19:44:27.197+0000] {processor.py:153} INFO - Started process (PID=44506) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:44:27.200+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T19:44:27.202+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:44:27.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:44:27.309+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:44:27.324+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:44:27.324+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T19:44:27.342+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:44:27.341+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T19:44:27.355+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T19:44:58.878+0000] {processor.py:153} INFO - Started process (PID=44562) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:44:58.881+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T19:44:58.882+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:44:58.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:44:58.989+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T19:44:59.005+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:44:59.005+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T19:44:59.021+0000] {logging_mixin.py:137} INFO - [2023-07-02T19:44:59.021+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T19:44:59.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.161 seconds
+[2023-07-02T20:00:31.078+0000] {processor.py:153} INFO - Started process (PID=44613) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:00:31.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T20:00:31.082+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:00:31.082+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:00:31.228+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:00:31.334+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:00:31.334+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T20:00:31.357+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:00:31.357+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T20:00:31.375+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.301 seconds
+[2023-07-02T20:17:07.877+0000] {processor.py:153} INFO - Started process (PID=44661) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:17:07.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T20:17:07.880+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:17:07.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:17:07.980+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:17:07.996+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:17:07.996+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T20:17:08.013+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:17:08.013+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T20:17:08.027+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.152 seconds
+[2023-07-02T20:17:39.412+0000] {processor.py:153} INFO - Started process (PID=44718) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:17:39.414+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T20:17:39.415+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:17:39.415+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:17:39.522+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:17:39.538+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:17:39.538+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T20:17:39.555+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:17:39.555+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T20:17:39.569+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.160 seconds
+[2023-07-02T20:33:49.997+0000] {processor.py:153} INFO - Started process (PID=44763) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:33:49.999+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T20:33:50.001+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:33:50.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:33:50.109+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:33:50.125+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:33:50.125+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T20:33:50.213+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:33:50.213+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T20:33:50.227+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.233 seconds
+[2023-07-02T20:34:21.631+0000] {processor.py:153} INFO - Started process (PID=44819) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:34:21.634+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T20:34:21.635+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:34:21.635+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:34:21.747+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:34:21.765+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:34:21.765+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T20:34:21.783+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:34:21.782+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T20:34:21.797+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.169 seconds
+[2023-07-02T20:52:33.325+0000] {processor.py:153} INFO - Started process (PID=44870) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:52:33.329+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T20:52:33.330+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:52:33.330+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:52:33.472+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T20:52:33.492+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:52:33.492+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T20:52:33.511+0000] {logging_mixin.py:137} INFO - [2023-07-02T20:52:33.511+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T20:52:33.527+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.206 seconds
+[2023-07-02T21:08:29.003+0000] {processor.py:153} INFO - Started process (PID=44920) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:08:29.005+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T21:08:29.008+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:08:29.008+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:08:29.131+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:08:29.157+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:08:29.157+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T21:08:29.176+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:08:29.176+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T21:08:29.193+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.194 seconds
+[2023-07-02T21:08:59.911+0000] {processor.py:153} INFO - Started process (PID=44977) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:08:59.913+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T21:08:59.914+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:08:59.914+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:09:00.041+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:09:00.060+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:09:00.060+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T21:09:00.079+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:09:00.078+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T21:09:00.092+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.184 seconds
+[2023-07-02T21:26:54.034+0000] {processor.py:153} INFO - Started process (PID=45022) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:26:54.037+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T21:26:54.038+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:26:54.038+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:26:54.149+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:26:54.167+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:26:54.167+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T21:26:54.189+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:26:54.189+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T21:26:54.204+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.172 seconds
+[2023-07-02T21:27:25.701+0000] {processor.py:153} INFO - Started process (PID=45078) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:27:25.704+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T21:27:25.705+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:27:25.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:27:25.821+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:27:25.844+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:27:25.844+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T21:27:25.863+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:27:25.863+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T21:27:25.876+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.180 seconds
+[2023-07-02T21:43:57.433+0000] {processor.py:153} INFO - Started process (PID=45122) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:43:57.435+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T21:43:57.437+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:43:57.437+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:43:57.622+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T21:43:57.639+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:43:57.639+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T21:43:57.664+0000] {logging_mixin.py:137} INFO - [2023-07-02T21:43:57.663+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T21:43:57.680+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.254 seconds
+[2023-07-02T22:01:07.036+0000] {processor.py:153} INFO - Started process (PID=45178) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:01:07.039+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:01:07.041+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:01:07.040+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:01:07.158+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:01:07.176+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:01:07.176+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:01:07.195+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:01:07.195+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:01:07.211+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.180 seconds
+[2023-07-02T22:01:39.001+0000] {processor.py:153} INFO - Started process (PID=45235) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:01:39.003+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:01:39.004+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:01:39.004+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:01:39.113+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:01:39.129+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:01:39.129+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:01:39.145+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:01:39.145+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:01:39.158+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.160 seconds
+[2023-07-02T22:17:54.383+0000] {processor.py:153} INFO - Started process (PID=45279) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:17:54.385+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:17:54.386+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:17:54.386+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:17:54.491+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:17:54.507+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:17:54.507+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:17:54.525+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:17:54.525+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:17:54.602+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.222 seconds
+[2023-07-02T22:18:26.677+0000] {processor.py:153} INFO - Started process (PID=45337) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:18:26.688+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:18:26.690+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:18:26.690+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:18:26.789+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:18:26.809+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:18:26.809+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:18:26.827+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:18:26.827+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:18:26.841+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.168 seconds
+[2023-07-02T22:36:38.792+0000] {processor.py:153} INFO - Started process (PID=45391) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:36:38.795+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:36:38.800+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:36:38.800+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:36:38.969+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:36:39.003+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:36:39.003+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:36:39.058+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:36:39.057+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:36:39.124+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.336 seconds
+[2023-07-02T22:52:22.472+0000] {processor.py:153} INFO - Started process (PID=45439) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:52:22.474+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:52:22.475+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:52:22.475+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:52:22.577+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:52:22.593+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:52:22.593+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:52:22.681+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:52:22.681+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:52:22.694+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.225 seconds
+[2023-07-02T22:52:53.510+0000] {processor.py:153} INFO - Started process (PID=45494) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:52:53.512+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T22:52:53.513+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:52:53.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:52:53.617+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T22:52:53.635+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:52:53.634+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T22:52:53.653+0000] {logging_mixin.py:137} INFO - [2023-07-02T22:52:53.652+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T22:52:53.667+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.160 seconds
+[2023-07-02T23:08:23.365+0000] {processor.py:153} INFO - Started process (PID=45540) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:08:23.368+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T23:08:23.369+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:08:23.369+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:08:23.472+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:08:23.489+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:08:23.489+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T23:08:23.508+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:08:23.508+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T23:08:23.520+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.159 seconds
+[2023-07-02T23:08:55.800+0000] {processor.py:153} INFO - Started process (PID=45597) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:08:55.802+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T23:08:55.804+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:08:55.804+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:08:55.903+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:08:55.949+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:08:55.949+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T23:08:55.967+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:08:55.967+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T23:08:55.979+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.184 seconds
+[2023-07-02T23:24:47.720+0000] {processor.py:153} INFO - Started process (PID=45641) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:24:47.722+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T23:24:47.724+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:24:47.724+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:24:47.947+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:24:47.965+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:24:47.965+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T23:24:47.989+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:24:47.989+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T23:24:48.024+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.308 seconds
+[2023-07-02T23:25:18.355+0000] {processor.py:153} INFO - Started process (PID=45696) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:25:18.365+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T23:25:18.366+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:25:18.366+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:25:18.471+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:25:18.488+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:25:18.488+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T23:25:18.505+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:25:18.505+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T23:25:18.519+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.167 seconds
+[2023-07-02T23:42:42.537+0000] {processor.py:153} INFO - Started process (PID=45754) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:42:42.539+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T23:42:42.540+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:42:42.540+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:42:42.645+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:42:42.663+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:42:42.663+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T23:42:42.679+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:42:42.679+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T23:42:42.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.156 seconds
+[2023-07-02T23:59:45.897+0000] {processor.py:153} INFO - Started process (PID=45800) to work on /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:59:45.900+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/leadsift_dag.py for tasks to queue
+[2023-07-02T23:59:45.901+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:59:45.901+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:59:46.010+0000] {processor.py:753} INFO - DAG(s) dict_keys(['LeadSift-Ingestion']) retrieved from /opt/airflow/dags/leadsift_dag.py
+[2023-07-02T23:59:46.037+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:59:46.037+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-02T23:59:46.061+0000] {logging_mixin.py:137} INFO - [2023-07-02T23:59:46.061+0000] {dag.py:3427} INFO - Setting next_dagrun for LeadSift-Ingestion to 2023-06-25T00:00:00+00:00, run_after=2023-07-02T00:00:00+00:00
+[2023-07-02T23:59:46.076+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/leadsift_dag.py took 0.183 seconds

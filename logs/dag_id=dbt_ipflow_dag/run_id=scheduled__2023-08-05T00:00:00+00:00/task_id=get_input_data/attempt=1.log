@@ -1,0 +1,41 @@
+[2023-08-06T00:00:01.152+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-08-05T00:00:00+00:00 [queued]>
+[2023-08-06T00:00:01.160+0000] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-08-05T00:00:00+00:00 [queued]>
+[2023-08-06T00:00:01.161+0000] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-06T00:00:01.163+0000] {taskinstance.py:1284} INFO - Starting attempt 1 of 1
+[2023-08-06T00:00:01.172+0000] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-08-06T00:00:01.181+0000] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): get_input_data> on 2023-08-05 00:00:00+00:00
+[2023-08-06T00:00:01.189+0000] {standard_task_runner.py:55} INFO - Started process 13549 to run task
+[2023-08-06T00:00:01.194+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dbt_ipflow_dag', 'get_input_data', 'scheduled__2023-08-05T00:00:00+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/dbt_ip_flow_dag.py', '--cfg-path', '/tmp/tmpoi_p07kh']
+[2023-08-06T00:00:01.197+0000] {standard_task_runner.py:83} INFO - Job 10: Subtask get_input_data
+[2023-08-06T00:00:01.265+0000] {task_command.py:389} INFO - Running <TaskInstance: dbt_ipflow_dag.get_input_data scheduled__2023-08-05T00:00:00+00:00 [running]> on host 2d3cfeb384b0
+[2023-08-06T00:00:01.322+0000] {taskinstance.py:1513} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dbt_ipflow_dag
+AIRFLOW_CTX_TASK_ID=get_input_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-08-05T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-08-05T00:00:00+00:00
+[2023-08-06T00:00:01.327+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-08-06T00:00:01.328+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', "dbt run --select stg_ipflow_input_data --profiles-dir /opt/***/dbt/dbt_dsg_app --project-dir /opt/***/dbt/dbt_dsg_app  --target dev --vars '{'env': 'dev'}' "]
+[2023-08-06T00:00:01.343+0000] {subprocess.py:86} INFO - Output:
+[2023-08-06T00:00:02.713+0000] {subprocess.py:93} INFO - [0m00:00:02  Running with dbt=1.5.4
+[2023-08-06T00:00:03.250+0000] {subprocess.py:93} INFO - [0m00:00:03  Registered adapter: snowflake=1.5.1
+[2023-08-06T00:00:03.491+0000] {subprocess.py:93} INFO - [0m00:00:03  Found 12 models, 2 tests, 0 snapshots, 0 analyses, 322 macros, 0 operations, 0 seed files, 0 sources, 0 exposures, 0 metrics, 0 groups
+[2023-08-06T00:00:03.504+0000] {subprocess.py:93} INFO - [0m00:00:03
+[2023-08-06T00:00:05.522+0000] {subprocess.py:93} INFO - [0m00:00:05  Concurrency: 4 threads (target='dev')
+[2023-08-06T00:00:05.524+0000] {subprocess.py:93} INFO - [0m00:00:05
+[2023-08-06T00:00:05.536+0000] {subprocess.py:93} INFO - [0m00:00:05  1 of 1 START sql table model DBT_POC.stg_ipflow_input_data ..................... [RUN]
+[2023-08-06T00:00:08.438+0000] {subprocess.py:93} INFO - [0m00:00:08  1 of 1 OK created sql table model DBT_POC.stg_ipflow_input_data ................ [[32mSUCCESS 1[0m in 2.88s]
+[2023-08-06T00:00:08.537+0000] {subprocess.py:93} INFO - [0m00:00:08
+[2023-08-06T00:00:08.540+0000] {subprocess.py:93} INFO - [0m00:00:08  Finished running 1 table model in 0 hours 0 minutes and 5.03 seconds (5.03s).
+[2023-08-06T00:00:08.642+0000] {subprocess.py:93} INFO - [0m00:00:08
+[2023-08-06T00:00:08.645+0000] {subprocess.py:93} INFO - [0m00:00:08  [32mCompleted successfully[0m
+[2023-08-06T00:00:08.648+0000] {subprocess.py:93} INFO - [0m00:00:08
+[2023-08-06T00:00:08.661+0000] {subprocess.py:93} INFO - [0m00:00:08  Done. PASS=1 WARN=0 ERROR=0 SKIP=0 TOTAL=1
+[2023-08-06T00:00:09.144+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-08-06T00:00:09.185+0000] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=dbt_ipflow_dag, task_id=get_input_data, execution_date=20230805T000000, start_date=20230806T000001, end_date=20230806T000009
+[2023-08-06T00:00:09.234+0000] {local_task_job.py:159} INFO - Task exited with return code 0
+[2023-08-06T00:00:09.254+0000] {taskinstance.py:2582} INFO - 0 downstream tasks scheduled from follow-on schedule check

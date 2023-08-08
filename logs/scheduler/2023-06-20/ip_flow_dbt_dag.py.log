@@ -1,0 +1,68 @@
+[2023-06-20T16:13:52.813+0000] {processor.py:153} INFO - Started process (PID=17741) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:13:52.815+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:13:52.816+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:13:52.816+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:13:53.109+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:13:53.251+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:13:53.266+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.456 seconds
+[2023-06-20T16:14:24.134+0000] {processor.py:153} INFO - Started process (PID=17798) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:14:24.136+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:14:24.137+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:14:24.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:14:24.463+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:14:24.589+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:14:24.604+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.472 seconds
+[2023-06-20T16:14:55.380+0000] {processor.py:153} INFO - Started process (PID=17854) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:14:55.383+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:14:55.385+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:14:55.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:14:55.771+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:14:55.920+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:14:55.941+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.566 seconds
+[2023-06-20T16:15:26.132+0000] {processor.py:153} INFO - Started process (PID=17899) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:15:26.137+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:15:26.150+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:15:26.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:15:26.522+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:15:26.675+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:15:26.689+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.562 seconds
+[2023-06-20T16:15:57.059+0000] {processor.py:153} INFO - Started process (PID=17955) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:15:57.062+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:15:57.064+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:15:57.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:15:57.391+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:15:57.545+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:15:57.562+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.505 seconds
+[2023-06-20T16:16:28.463+0000] {processor.py:153} INFO - Started process (PID=18011) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:16:28.465+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:16:28.466+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:16:28.466+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:16:28.755+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:16:28.891+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:16:28.905+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.445 seconds
+[2023-06-20T16:16:59.953+0000] {processor.py:153} INFO - Started process (PID=18056) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:16:59.957+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:16:59.960+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:16:59.960+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:00.355+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:17:00.501+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:00.516+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.568 seconds
+[2023-06-20T16:17:30.593+0000] {processor.py:153} INFO - Started process (PID=18113) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:30.597+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:17:30.599+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:30.599+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:30.950+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:17:31.095+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:31.109+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.522 seconds
+[2023-06-20T16:17:36.655+0000] {processor.py:153} INFO - Started process (PID=18125) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:36.657+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:17:36.659+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:36.659+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:37.009+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:17:37.235+0000] {processor.py:753} INFO - DAG(s) dict_keys(['dbt_ipflow_dag']) retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:37.341+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:37.341+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:dbt_ipflow_dag
+[2023-06-20T16:17:37.351+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:37.351+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:dbt_ipflow_dag
+[2023-06-20T16:17:37.359+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:37.359+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:dbt_ipflow_dag
+[2023-06-20T16:17:37.377+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:37.377+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-06-20T16:17:37.399+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:37.399+0000] {dag.py:2697} INFO - Creating ORM DAG for dbt_ipflow_dag
+[2023-06-20T16:17:37.414+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:37.413+0000] {dag.py:3427} INFO - Setting next_dagrun for dbt_ipflow_dag to 2023-06-19T00:00:00+00:00, run_after=2023-06-20T00:00:00+00:00
+[2023-06-20T16:17:37.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.782 seconds
+[2023-06-20T16:17:42.270+0000] {processor.py:153} INFO - Started process (PID=18134) to work on /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:42.272+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ip_flow_dbt_dag.py for tasks to queue
+[2023-06-20T16:17:42.274+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:42.274+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:42.625+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/snowflake/connector/options.py:99 UserWarning: You have an incompatible version of 'pyarrow' installed (9.0.0), please install a version that adheres to: 'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+[2023-06-20T16:17:42.778+0000] {processor.py:753} INFO - DAG(s) dict_keys(['dbt_ipflow_dag']) retrieved from /opt/airflow/dags/ip_flow_dbt_dag.py
+[2023-06-20T16:17:42.793+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:42.792+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-06-20T16:17:42.812+0000] {logging_mixin.py:137} INFO - [2023-06-20T16:17:42.812+0000] {dag.py:3427} INFO - Setting next_dagrun for dbt_ipflow_dag to 2023-06-19T00:00:00+00:00, run_after=2023-06-20T00:00:00+00:00
+[2023-06-20T16:17:42.832+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ip_flow_dbt_dag.py took 0.565 seconds

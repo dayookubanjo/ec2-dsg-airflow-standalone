@@ -1,0 +1,882 @@
+[2023-07-31T00:03:14.917+0000] {processor.py:153} INFO - Started process (PID=11183) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:03:14.919+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:03:14.921+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:03:14.921+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:03:15.203+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:03:15.277+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:03:15.277+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:03:15.296+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:03:15.296+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:03:15.310+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.397 seconds
+[2023-07-31T00:03:46.057+0000] {processor.py:153} INFO - Started process (PID=11240) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:03:46.059+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:03:46.061+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:03:46.061+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:03:46.308+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:03:46.334+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:03:46.334+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:03:46.353+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:03:46.353+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:03:46.370+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.316 seconds
+[2023-07-31T00:15:17.312+0000] {processor.py:153} INFO - Started process (PID=11285) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:15:17.324+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:15:17.328+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:15:17.328+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:15:17.603+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:15:17.624+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:15:17.624+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:15:17.643+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:15:17.643+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:15:17.746+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.438 seconds
+[2023-07-31T00:31:13.146+0000] {processor.py:153} INFO - Started process (PID=11341) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:31:13.148+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:31:13.150+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:31:13.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:31:13.390+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:31:13.404+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:31:13.403+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:31:13.421+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:31:13.421+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:31:13.437+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.294 seconds
+[2023-07-31T00:31:44.315+0000] {processor.py:153} INFO - Started process (PID=11392) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:31:44.318+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:31:44.319+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:31:44.319+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:31:44.578+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:31:44.603+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:31:44.603+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:31:44.630+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:31:44.630+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:31:44.643+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.331 seconds
+[2023-07-31T00:47:32.437+0000] {processor.py:153} INFO - Started process (PID=11442) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:47:32.451+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:47:32.453+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:47:32.453+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:47:32.883+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:47:32.914+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:47:32.914+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:47:32.935+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:47:32.935+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:47:32.959+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.529 seconds
+[2023-07-31T00:48:03.593+0000] {processor.py:153} INFO - Started process (PID=11498) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:48:03.595+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T00:48:03.597+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:48:03.596+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:48:03.832+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T00:48:03.848+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:48:03.848+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T00:48:03.864+0000] {logging_mixin.py:137} INFO - [2023-07-31T00:48:03.863+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T00:48:03.877+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.288 seconds
+[2023-07-31T01:05:51.806+0000] {processor.py:153} INFO - Started process (PID=11543) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:05:51.816+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:05:51.820+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:05:51.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:05:52.074+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:05:52.089+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:05:52.089+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:05:52.105+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:05:52.104+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:05:52.118+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.316 seconds
+[2023-07-31T01:06:22.683+0000] {processor.py:153} INFO - Started process (PID=11599) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:06:22.685+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:06:22.686+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:06:22.686+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:06:22.921+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:06:23.019+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:06:23.019+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:06:23.035+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:06:23.035+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:06:23.048+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.369 seconds
+[2023-07-31T01:06:54.695+0000] {processor.py:153} INFO - Started process (PID=11656) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:06:54.700+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:06:54.702+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:06:54.702+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:06:54.914+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:06:54.935+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:06:54.934+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:06:54.950+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:06:54.950+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:06:54.962+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.270 seconds
+[2023-07-31T01:07:25.473+0000] {processor.py:153} INFO - Started process (PID=11701) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:07:25.475+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:07:25.477+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:07:25.477+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:07:25.708+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:07:25.731+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:07:25.731+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:07:25.755+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:07:25.754+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:07:25.766+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.296 seconds
+[2023-07-31T01:07:56.487+0000] {processor.py:153} INFO - Started process (PID=11757) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:07:56.488+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:07:56.497+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:07:56.497+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:07:56.720+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:07:56.737+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:07:56.737+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:07:56.755+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:07:56.755+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:07:56.772+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.290 seconds
+[2023-07-31T01:23:35.814+0000] {processor.py:153} INFO - Started process (PID=11802) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:23:35.816+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:23:35.817+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:23:35.817+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:23:36.073+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:23:36.091+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:23:36.090+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:23:36.114+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:23:36.114+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:23:36.132+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.321 seconds
+[2023-07-31T01:24:06.882+0000] {processor.py:153} INFO - Started process (PID=11858) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:24:06.885+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:24:06.887+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:24:06.886+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:24:07.120+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:24:07.134+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:24:07.134+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:24:07.153+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:24:07.153+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:24:07.167+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.288 seconds
+[2023-07-31T01:24:37.802+0000] {processor.py:153} INFO - Started process (PID=11910) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:24:37.807+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:24:37.808+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:24:37.808+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:24:38.151+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:24:38.171+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:24:38.171+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:24:38.189+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:24:38.189+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:24:38.205+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.407 seconds
+[2023-07-31T01:40:11.238+0000] {processor.py:153} INFO - Started process (PID=11960) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:40:11.240+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:40:11.241+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:40:11.241+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:40:11.493+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:40:11.511+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:40:11.511+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:40:11.530+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:40:11.530+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:40:11.548+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.313 seconds
+[2023-07-31T01:40:42.303+0000] {processor.py:153} INFO - Started process (PID=12005) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:40:42.306+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:40:42.310+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:40:42.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:40:42.581+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:40:42.600+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:40:42.600+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:40:42.628+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:40:42.628+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:40:42.641+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.341 seconds
+[2023-07-31T01:41:13.223+0000] {processor.py:153} INFO - Started process (PID=12061) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:41:13.225+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:41:13.235+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:41:13.235+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:41:13.509+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:41:13.531+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:41:13.531+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:41:13.549+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:41:13.549+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:41:13.564+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.344 seconds
+[2023-07-31T01:41:44.197+0000] {processor.py:153} INFO - Started process (PID=12118) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:41:44.199+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:41:44.200+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:41:44.200+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:41:44.426+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:41:44.442+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:41:44.442+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:41:44.461+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:41:44.461+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:41:44.475+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.281 seconds
+[2023-07-31T01:42:14.989+0000] {processor.py:153} INFO - Started process (PID=12176) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:42:14.991+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:42:14.993+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:42:14.993+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:42:15.226+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:42:15.241+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:42:15.241+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:42:15.258+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:42:15.258+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:42:15.271+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.286 seconds
+[2023-07-31T01:59:34.400+0000] {processor.py:153} INFO - Started process (PID=12220) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:59:34.404+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T01:59:34.406+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:59:34.405+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:59:34.651+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T01:59:34.667+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:59:34.667+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T01:59:34.683+0000] {logging_mixin.py:137} INFO - [2023-07-31T01:59:34.683+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T01:59:34.698+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.304 seconds
+[2023-07-31T02:00:05.344+0000] {processor.py:153} INFO - Started process (PID=12276) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:00:05.346+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T02:00:05.348+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:00:05.348+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:00:05.582+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:00:05.603+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:00:05.603+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T02:00:05.621+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:00:05.621+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T02:00:05.636+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.297 seconds
+[2023-07-31T02:16:24.294+0000] {processor.py:153} INFO - Started process (PID=12321) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:16:24.303+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T02:16:24.305+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:16:24.305+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:16:24.543+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:16:24.557+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:16:24.557+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T02:16:24.574+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:16:24.574+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T02:16:24.589+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.298 seconds
+[2023-07-31T02:16:55.785+0000] {processor.py:153} INFO - Started process (PID=12378) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:16:55.787+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T02:16:55.788+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:16:55.788+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:16:56.082+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:16:56.097+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:16:56.097+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T02:16:56.114+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:16:56.113+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T02:16:56.125+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.344 seconds
+[2023-07-31T02:32:37.588+0000] {processor.py:153} INFO - Started process (PID=12422) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:32:37.590+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T02:32:37.592+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:32:37.592+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:32:37.836+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:32:37.899+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:32:37.899+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T02:32:37.918+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:32:37.918+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T02:32:37.931+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.346 seconds
+[2023-07-31T02:49:26.368+0000] {processor.py:153} INFO - Started process (PID=12479) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:49:26.371+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T02:49:26.372+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:49:26.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:49:26.614+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:49:26.631+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:49:26.631+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T02:49:26.650+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:49:26.650+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T02:49:26.663+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.299 seconds
+[2023-07-31T02:49:58.075+0000] {processor.py:153} INFO - Started process (PID=12535) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:49:58.078+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T02:49:58.079+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:49:58.079+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:49:58.334+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T02:49:58.349+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:49:58.349+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T02:49:58.364+0000] {logging_mixin.py:137} INFO - [2023-07-31T02:49:58.364+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T02:49:58.377+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.305 seconds
+[2023-07-31T03:05:52.136+0000] {processor.py:153} INFO - Started process (PID=12581) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:05:52.139+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:05:52.141+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:05:52.141+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:05:52.380+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:05:52.408+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:05:52.408+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:05:52.426+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:05:52.426+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:05:52.438+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.305 seconds
+[2023-07-31T03:06:23.055+0000] {processor.py:153} INFO - Started process (PID=12638) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:06:23.057+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:06:23.058+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:06:23.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:06:23.299+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:06:23.316+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:06:23.316+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:06:23.331+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:06:23.331+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:06:23.343+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.292 seconds
+[2023-07-31T03:22:55.048+0000] {processor.py:153} INFO - Started process (PID=12683) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:22:55.051+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:22:55.052+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:22:55.052+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:22:55.281+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:22:55.297+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:22:55.297+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:22:55.316+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:22:55.316+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:22:55.330+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.284 seconds
+[2023-07-31T03:23:26.170+0000] {processor.py:153} INFO - Started process (PID=12739) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:23:26.172+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:23:26.174+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:23:26.174+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:23:26.435+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:23:26.456+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:23:26.456+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:23:26.472+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:23:26.472+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:23:26.485+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.319 seconds
+[2023-07-31T03:40:00.061+0000] {processor.py:153} INFO - Started process (PID=12784) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:40:00.065+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:40:00.066+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:40:00.066+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:40:00.297+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:40:00.383+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:40:00.383+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:40:00.399+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:40:00.399+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:40:00.412+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.356 seconds
+[2023-07-31T03:57:34.992+0000] {processor.py:153} INFO - Started process (PID=12842) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:57:34.995+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:57:34.996+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:57:34.996+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:57:35.407+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:57:35.422+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:57:35.422+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:57:35.439+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:57:35.439+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:57:35.453+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.466 seconds
+[2023-07-31T03:58:06.251+0000] {processor.py:153} INFO - Started process (PID=12900) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:58:06.254+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T03:58:06.256+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:58:06.256+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:58:06.512+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T03:58:06.537+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:58:06.537+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T03:58:06.556+0000] {logging_mixin.py:137} INFO - [2023-07-31T03:58:06.556+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T03:58:06.569+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.322 seconds
+[2023-07-31T04:13:49.265+0000] {processor.py:153} INFO - Started process (PID=12944) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:13:49.268+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T04:13:49.269+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:13:49.269+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:13:49.498+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:13:49.513+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:13:49.513+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T04:13:49.530+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:13:49.529+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T04:13:49.543+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.281 seconds
+[2023-07-31T04:30:14.911+0000] {processor.py:153} INFO - Started process (PID=13000) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:30:14.920+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T04:30:14.924+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:30:14.923+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:30:15.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:30:15.354+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:30:15.354+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T04:30:15.370+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:30:15.370+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T04:30:15.385+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.483 seconds
+[2023-07-31T04:30:46.042+0000] {processor.py:153} INFO - Started process (PID=13045) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:30:46.045+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T04:30:46.046+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:30:46.046+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:30:46.277+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:30:46.336+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:30:46.336+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T04:30:46.352+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:30:46.352+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T04:30:46.364+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.326 seconds
+[2023-07-31T04:46:16.558+0000] {processor.py:153} INFO - Started process (PID=13102) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:46:16.561+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T04:46:16.563+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:46:16.563+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:46:16.841+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:46:16.857+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:46:16.857+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T04:46:16.876+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:46:16.876+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T04:46:16.899+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.344 seconds
+[2023-07-31T04:46:47.563+0000] {processor.py:153} INFO - Started process (PID=13159) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:46:47.566+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T04:46:47.567+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:46:47.567+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:46:47.799+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T04:46:47.816+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:46:47.816+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T04:46:47.834+0000] {logging_mixin.py:137} INFO - [2023-07-31T04:46:47.834+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T04:46:47.848+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.288 seconds
+[2023-07-31T05:02:43.154+0000] {processor.py:153} INFO - Started process (PID=13204) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:02:43.158+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:02:43.159+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:02:43.159+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:02:43.462+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:02:43.488+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:02:43.488+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:02:43.588+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:02:43.588+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:02:43.600+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.449 seconds
+[2023-07-31T05:03:14.188+0000] {processor.py:153} INFO - Started process (PID=13261) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:03:14.190+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:03:14.192+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:03:14.192+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:03:14.416+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:03:14.440+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:03:14.440+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:03:14.456+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:03:14.456+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:03:14.470+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.285 seconds
+[2023-07-31T05:03:45.621+0000] {processor.py:153} INFO - Started process (PID=13318) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:03:45.623+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:03:45.625+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:03:45.625+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:03:45.877+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:03:45.897+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:03:45.897+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:03:45.915+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:03:45.915+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:03:45.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.312 seconds
+[2023-07-31T05:04:16.729+0000] {processor.py:153} INFO - Started process (PID=13362) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:04:16.730+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:04:16.732+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:04:16.732+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:04:16.960+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:04:16.981+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:04:16.981+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:04:16.999+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:04:16.998+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:04:17.013+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.287 seconds
+[2023-07-31T05:20:01.462+0000] {processor.py:153} INFO - Started process (PID=13419) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:20:01.466+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:20:01.469+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:20:01.468+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:20:01.831+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:20:01.853+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:20:01.852+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:20:01.881+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:20:01.881+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:20:01.894+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.447 seconds
+[2023-07-31T05:20:32.611+0000] {processor.py:153} INFO - Started process (PID=13463) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:20:32.613+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:20:32.615+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:20:32.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:20:32.850+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:20:32.870+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:20:32.869+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:20:32.896+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:20:32.896+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:20:32.908+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.301 seconds
+[2023-07-31T05:38:17.566+0000] {processor.py:153} INFO - Started process (PID=13520) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:38:17.568+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:38:17.569+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:38:17.569+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:38:17.834+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:38:17.850+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:38:17.850+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:38:17.867+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:38:17.867+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:38:17.880+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.318 seconds
+[2023-07-31T05:38:48.532+0000] {processor.py:153} INFO - Started process (PID=13564) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:38:48.535+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:38:48.538+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:38:48.538+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:38:48.815+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:38:48.834+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:38:48.834+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:38:48.851+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:38:48.851+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:38:48.865+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.337 seconds
+[2023-07-31T05:54:52.716+0000] {processor.py:153} INFO - Started process (PID=13621) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:54:52.718+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:54:52.720+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:54:52.720+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:54:53.041+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:54:53.057+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:54:53.057+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:54:53.074+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:54:53.074+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:54:53.093+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.382 seconds
+[2023-07-31T05:55:23.627+0000] {processor.py:153} INFO - Started process (PID=13668) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:55:23.630+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T05:55:23.632+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:55:23.632+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:55:23.908+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T05:55:23.923+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:55:23.923+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T05:55:23.942+0000] {logging_mixin.py:137} INFO - [2023-07-31T05:55:23.942+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T05:55:23.958+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.334 seconds
+[2023-07-31T06:10:58.275+0000] {processor.py:153} INFO - Started process (PID=13721) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:10:58.277+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:10:58.278+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:10:58.278+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:10:58.526+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:10:58.548+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:10:58.548+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:10:58.565+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:10:58.565+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:10:58.581+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.309 seconds
+[2023-07-31T06:11:29.583+0000] {processor.py:153} INFO - Started process (PID=13777) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:11:29.586+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:11:29.594+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:11:29.594+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:11:29.849+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:11:29.866+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:11:29.866+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:11:29.882+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:11:29.882+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:11:29.897+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.317 seconds
+[2023-07-31T06:27:41.411+0000] {processor.py:153} INFO - Started process (PID=13822) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:27:41.413+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:27:41.415+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:27:41.414+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:27:41.647+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:27:41.666+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:27:41.666+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:27:41.688+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:27:41.688+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:27:41.707+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.301 seconds
+[2023-07-31T06:45:02.553+0000] {processor.py:153} INFO - Started process (PID=13879) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:45:02.556+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:45:02.558+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:45:02.558+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:45:02.808+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:45:02.832+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:45:02.832+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:45:02.878+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:45:02.877+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:45:02.898+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.349 seconds
+[2023-07-31T06:45:33.526+0000] {processor.py:153} INFO - Started process (PID=13931) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:45:33.536+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:45:33.538+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:45:33.538+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:45:33.808+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:45:33.827+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:45:33.827+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:45:33.846+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:45:33.846+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:45:33.863+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.340 seconds
+[2023-07-31T06:46:04.572+0000] {processor.py:153} INFO - Started process (PID=13981) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:46:04.574+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:46:04.576+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:46:04.575+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:46:04.808+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:46:04.825+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:46:04.825+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:46:04.845+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:46:04.845+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:46:04.857+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.288 seconds
+[2023-07-31T06:46:35.353+0000] {processor.py:153} INFO - Started process (PID=14037) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:46:35.355+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:46:35.358+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:46:35.358+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:46:35.587+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:46:35.687+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:46:35.687+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:46:35.705+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:46:35.705+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:46:35.718+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.368 seconds
+[2023-07-31T06:47:06.223+0000] {processor.py:153} INFO - Started process (PID=14094) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:47:06.225+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:47:06.226+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:47:06.226+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:47:06.496+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:47:06.513+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:47:06.513+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:47:06.530+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:47:06.530+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:47:06.544+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.324 seconds
+[2023-07-31T06:47:37.252+0000] {processor.py:153} INFO - Started process (PID=14139) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:47:37.254+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T06:47:37.257+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:47:37.256+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:47:37.514+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T06:47:37.529+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:47:37.529+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T06:47:37.544+0000] {logging_mixin.py:137} INFO - [2023-07-31T06:47:37.544+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T06:47:37.560+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.312 seconds
+[2023-07-31T07:05:43.136+0000] {processor.py:153} INFO - Started process (PID=14196) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:05:43.138+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:05:43.143+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:05:43.143+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:05:43.385+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:05:43.461+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:05:43.460+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:05:43.477+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:05:43.476+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:05:43.489+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.356 seconds
+[2023-07-31T07:06:14.853+0000] {processor.py:153} INFO - Started process (PID=14241) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:06:14.855+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:06:14.857+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:06:14.857+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:06:15.137+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:06:15.163+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:06:15.163+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:06:15.180+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:06:15.180+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:06:15.196+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.354 seconds
+[2023-07-31T07:22:50.367+0000] {processor.py:153} INFO - Started process (PID=14298) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:22:50.369+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:22:50.374+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:22:50.374+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:22:50.917+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:22:50.956+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:22:50.956+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:22:51.005+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:22:51.005+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:22:51.037+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.676 seconds
+[2023-07-31T07:23:50.279+0000] {processor.py:153} INFO - Started process (PID=14343) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:23:50.282+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:23:50.283+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:23:50.283+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:23:50.561+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:23:50.578+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:23:50.578+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:23:50.595+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:23:50.595+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:23:50.608+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.333 seconds
+[2023-07-31T07:24:21.429+0000] {processor.py:153} INFO - Started process (PID=14400) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:24:21.432+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:24:21.434+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:24:21.434+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:24:21.650+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:24:21.667+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:24:21.667+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:24:21.684+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:24:21.683+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:24:21.698+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.272 seconds
+[2023-07-31T07:40:39.409+0000] {processor.py:153} INFO - Started process (PID=14458) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:40:39.411+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:40:39.412+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:40:39.412+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:40:39.641+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:40:39.663+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:40:39.663+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:40:39.680+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:40:39.680+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:40:39.693+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.288 seconds
+[2023-07-31T07:41:10.454+0000] {processor.py:153} INFO - Started process (PID=14502) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:41:10.456+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:41:10.458+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:41:10.458+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:41:10.720+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:41:10.741+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:41:10.740+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:41:10.760+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:41:10.760+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:41:10.775+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.324 seconds
+[2023-07-31T07:58:55.900+0000] {processor.py:153} INFO - Started process (PID=14558) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:58:55.908+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:58:55.910+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:58:55.910+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:58:56.290+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:58:56.324+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:58:56.324+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:58:56.351+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:58:56.350+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:58:56.378+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.484 seconds
+[2023-07-31T07:59:26.947+0000] {processor.py:153} INFO - Started process (PID=14614) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:59:26.949+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T07:59:26.953+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:59:26.952+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:59:27.185+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T07:59:27.253+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:59:27.253+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T07:59:27.268+0000] {logging_mixin.py:137} INFO - [2023-07-31T07:59:27.268+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T07:59:27.284+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.340 seconds
+[2023-07-31T08:14:57.994+0000] {processor.py:153} INFO - Started process (PID=14659) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:14:58.004+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T08:14:58.006+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:14:58.006+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:14:58.274+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:14:58.291+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:14:58.291+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T08:14:58.310+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:14:58.310+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T08:14:58.324+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.335 seconds
+[2023-07-31T08:31:41.119+0000] {processor.py:153} INFO - Started process (PID=14716) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:31:41.121+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T08:31:41.124+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:31:41.124+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:31:41.367+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:31:41.382+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:31:41.382+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T08:31:41.398+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:31:41.398+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T08:31:41.411+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.295 seconds
+[2023-07-31T08:32:12.331+0000] {processor.py:153} INFO - Started process (PID=14773) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:32:12.334+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T08:32:12.336+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:32:12.336+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:32:12.763+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:32:12.788+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:32:12.788+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T08:32:12.804+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:32:12.804+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T08:32:12.820+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.493 seconds
+[2023-07-31T08:50:08.497+0000] {processor.py:153} INFO - Started process (PID=14818) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:50:08.499+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T08:50:08.500+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:50:08.500+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:50:08.731+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:50:08.745+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:50:08.745+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T08:50:08.761+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:50:08.761+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T08:50:08.782+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.288 seconds
+[2023-07-31T08:50:39.470+0000] {processor.py:153} INFO - Started process (PID=14875) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:50:39.477+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T08:50:39.478+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:50:39.478+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:50:39.689+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T08:50:39.703+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:50:39.703+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T08:50:39.718+0000] {logging_mixin.py:137} INFO - [2023-07-31T08:50:39.718+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T08:50:39.731+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.264 seconds
+[2023-07-31T09:08:47.323+0000] {processor.py:153} INFO - Started process (PID=14920) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:08:47.326+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T09:08:47.327+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:08:47.327+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:08:47.659+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:08:47.676+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:08:47.676+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T09:08:47.693+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:08:47.693+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T09:08:47.705+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.386 seconds
+[2023-07-31T09:09:18.283+0000] {processor.py:153} INFO - Started process (PID=14977) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:09:18.285+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T09:09:18.287+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:09:18.287+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:09:18.518+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:09:18.614+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:09:18.614+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T09:09:18.631+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:09:18.631+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T09:09:18.645+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.366 seconds
+[2023-07-31T09:24:53.142+0000] {processor.py:153} INFO - Started process (PID=15022) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:24:53.144+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T09:24:53.145+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:24:53.145+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:24:53.411+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:24:53.433+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:24:53.433+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T09:24:53.453+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:24:53.453+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T09:24:53.477+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.338 seconds
+[2023-07-31T09:42:19.809+0000] {processor.py:153} INFO - Started process (PID=15079) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:42:19.811+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T09:42:19.813+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:42:19.813+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:42:20.075+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:42:20.177+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:42:20.177+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T09:42:20.194+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:42:20.194+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T09:42:20.206+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.400 seconds
+[2023-07-31T09:42:50.897+0000] {processor.py:153} INFO - Started process (PID=15136) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:42:50.899+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T09:42:50.901+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:42:50.901+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:42:51.164+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T09:42:51.181+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:42:51.181+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T09:42:51.198+0000] {logging_mixin.py:137} INFO - [2023-07-31T09:42:51.197+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T09:42:51.214+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.326 seconds
+[2023-07-31T10:00:51.027+0000] {processor.py:153} INFO - Started process (PID=15181) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:00:51.029+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:00:51.031+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:00:51.031+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:00:51.270+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:00:51.284+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:00:51.284+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:00:51.300+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:00:51.300+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:00:51.312+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.289 seconds
+[2023-07-31T10:01:22.122+0000] {processor.py:153} INFO - Started process (PID=15239) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:01:22.129+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:01:22.131+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:01:22.131+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:01:22.364+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:01:22.390+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:01:22.389+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:01:22.412+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:01:22.411+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:01:22.429+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.313 seconds
+[2023-07-31T10:19:40.365+0000] {processor.py:153} INFO - Started process (PID=15290) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:19:40.368+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:19:40.371+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:19:40.371+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:19:40.626+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:19:40.654+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:19:40.654+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:19:40.685+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:19:40.685+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:19:40.715+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.356 seconds
+[2023-07-31T10:36:29.280+0000] {processor.py:153} INFO - Started process (PID=15341) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:36:29.283+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:36:29.284+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:36:29.284+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:36:29.597+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:36:29.612+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:36:29.612+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:36:29.629+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:36:29.629+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:36:29.642+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.364 seconds
+[2023-07-31T10:37:00.247+0000] {processor.py:153} INFO - Started process (PID=15399) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:37:00.249+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:37:00.250+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:37:00.250+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:37:00.466+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:37:00.509+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:37:00.509+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:37:00.528+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:37:00.528+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:37:00.544+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.300 seconds
+[2023-07-31T10:55:12.820+0000] {processor.py:153} INFO - Started process (PID=15443) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:55:12.822+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:55:12.823+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:55:12.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:55:13.063+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:55:13.082+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:55:13.082+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:55:13.099+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:55:13.098+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:55:13.113+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.296 seconds
+[2023-07-31T10:55:43.991+0000] {processor.py:153} INFO - Started process (PID=15501) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:55:43.994+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T10:55:43.995+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:55:43.995+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:55:44.244+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T10:55:44.258+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:55:44.258+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T10:55:44.274+0000] {logging_mixin.py:137} INFO - [2023-07-31T10:55:44.274+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T10:55:44.288+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.300 seconds
+[2023-07-31T11:13:20.770+0000] {processor.py:153} INFO - Started process (PID=15558) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:13:20.785+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T11:13:20.787+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:13:20.787+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:13:21.043+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:13:21.062+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:13:21.062+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T11:13:21.080+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:13:21.080+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T11:13:21.094+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.329 seconds
+[2023-07-31T11:29:26.974+0000] {processor.py:153} INFO - Started process (PID=15603) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:29:26.976+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T11:29:26.978+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:29:26.978+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:29:27.229+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:29:27.245+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:29:27.245+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T11:29:27.261+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:29:27.261+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T11:29:27.275+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.304 seconds
+[2023-07-31T11:29:57.949+0000] {processor.py:153} INFO - Started process (PID=15659) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:29:57.952+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T11:29:57.953+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:29:57.953+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:29:58.181+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:29:58.207+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:29:58.207+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T11:29:58.223+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:29:58.223+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T11:29:58.235+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.290 seconds
+[2023-07-31T11:45:48.739+0000] {processor.py:153} INFO - Started process (PID=15704) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:45:48.824+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T11:45:48.826+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:45:48.826+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:45:49.044+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:45:49.059+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:45:49.059+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T11:45:49.074+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:45:49.074+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T11:45:49.088+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.352 seconds
+[2023-07-31T11:46:20.412+0000] {processor.py:153} INFO - Started process (PID=15761) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:46:20.414+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T11:46:20.416+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:46:20.416+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:46:20.623+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T11:46:20.639+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:46:20.639+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T11:46:20.654+0000] {logging_mixin.py:137} INFO - [2023-07-31T11:46:20.654+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T11:46:20.665+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.256 seconds
+[2023-07-31T12:04:38.646+0000] {processor.py:153} INFO - Started process (PID=15817) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:04:38.652+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:04:38.657+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:04:38.657+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:04:38.975+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:04:38.995+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:04:38.995+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:04:39.024+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:04:39.024+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:04:39.038+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.395 seconds
+[2023-07-31T12:21:06.472+0000] {processor.py:153} INFO - Started process (PID=15862) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:21:06.475+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:21:06.476+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:21:06.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:21:06.722+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:21:06.761+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:21:06.760+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:21:06.779+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:21:06.779+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:21:06.797+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.328 seconds
+[2023-07-31T12:21:37.593+0000] {processor.py:153} INFO - Started process (PID=15919) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:21:37.595+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:21:37.596+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:21:37.596+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:21:37.836+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:21:37.856+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:21:37.855+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:21:37.871+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:21:37.870+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:21:37.883+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.293 seconds
+[2023-07-31T12:39:06.570+0000] {processor.py:153} INFO - Started process (PID=15963) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:39:06.576+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:39:06.578+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:39:06.577+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:39:06.887+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:39:06.909+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:39:06.909+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:39:06.923+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:39:06.923+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:39:06.936+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.371 seconds
+[2023-07-31T12:39:37.808+0000] {processor.py:153} INFO - Started process (PID=16020) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:39:37.811+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:39:37.812+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:39:37.812+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:39:38.039+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:39:38.055+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:39:38.055+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:39:38.072+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:39:38.072+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:39:38.091+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.287 seconds
+[2023-07-31T12:55:57.194+0000] {processor.py:153} INFO - Started process (PID=16065) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:55:57.196+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:55:57.284+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:55:57.284+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:55:57.515+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:55:57.532+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:55:57.532+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:55:57.548+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:55:57.548+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:55:57.573+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.382 seconds
+[2023-07-31T12:56:28.382+0000] {processor.py:153} INFO - Started process (PID=16122) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:56:28.384+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T12:56:28.385+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:56:28.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:56:28.650+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T12:56:28.666+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:56:28.666+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T12:56:28.682+0000] {logging_mixin.py:137} INFO - [2023-07-31T12:56:28.682+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T12:56:28.694+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.316 seconds
+[2023-07-31T13:13:13.883+0000] {processor.py:153} INFO - Started process (PID=16180) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:13:13.885+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:13:13.889+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:13:13.889+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:13:14.225+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:13:14.243+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:13:14.243+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:13:14.262+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:13:14.262+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:13:14.280+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.405 seconds
+[2023-07-31T13:24:40.072+0000] {processor.py:153} INFO - Started process (PID=16225) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:24:40.075+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:24:40.076+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:24:40.076+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:24:40.319+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:24:40.335+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:24:40.335+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:24:40.358+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:24:40.358+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:24:40.375+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.307 seconds
+[2023-07-31T13:25:11.346+0000] {processor.py:153} INFO - Started process (PID=16281) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:25:11.348+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:25:11.358+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:25:11.357+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:25:11.579+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:25:11.594+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:25:11.594+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:25:11.611+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:25:11.611+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:25:11.628+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.285 seconds
+[2023-07-31T13:30:37.390+0000] {processor.py:153} INFO - Started process (PID=16326) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:30:37.401+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:30:37.402+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:30:37.402+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:30:37.665+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:30:37.688+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:30:37.687+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:30:37.705+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:30:37.705+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:30:37.720+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.332 seconds
+[2023-07-31T13:46:30.211+0000] {processor.py:153} INFO - Started process (PID=16382) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:46:30.224+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:46:30.228+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:46:30.227+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:46:30.643+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:46:30.659+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:46:30.659+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:46:30.676+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:46:30.676+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:46:30.692+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.485 seconds
+[2023-07-31T13:47:01.428+0000] {processor.py:153} INFO - Started process (PID=16434) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:47:01.431+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:47:01.432+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:47:01.432+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:47:01.680+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:47:01.707+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:47:01.707+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:47:01.724+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:47:01.724+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:47:01.819+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.395 seconds
+[2023-07-31T13:47:33.337+0000] {processor.py:153} INFO - Started process (PID=16484) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:47:33.340+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:47:33.342+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:47:33.341+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:47:33.575+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:47:33.621+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:47:33.621+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:47:33.640+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:47:33.639+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:47:33.653+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.319 seconds
+[2023-07-31T13:55:10.668+0000] {processor.py:153} INFO - Started process (PID=16540) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:55:10.676+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:55:10.678+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:55:10.678+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:55:11.005+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:55:11.025+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:55:11.024+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:55:11.042+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:55:11.042+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:55:11.055+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.391 seconds
+[2023-07-31T13:55:41.758+0000] {processor.py:153} INFO - Started process (PID=16585) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:55:41.769+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T13:55:41.770+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:55:41.770+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:55:41.983+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T13:55:41.997+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:55:41.997+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T13:55:42.016+0000] {logging_mixin.py:137} INFO - [2023-07-31T13:55:42.016+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T13:55:42.031+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.276 seconds
+[2023-07-31T14:12:25.682+0000] {processor.py:153} INFO - Started process (PID=16641) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:12:25.694+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:12:25.696+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:12:25.695+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:12:25.958+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:12:25.972+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:12:25.972+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:12:25.989+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:12:25.989+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:12:26.003+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.326 seconds
+[2023-07-31T14:12:56.930+0000] {processor.py:153} INFO - Started process (PID=16694) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:12:56.932+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:12:56.937+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:12:56.937+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:12:57.285+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:12:57.315+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:12:57.315+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:12:57.339+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:12:57.339+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:12:57.459+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.532 seconds
+[2023-07-31T14:30:06.874+0000] {processor.py:153} INFO - Started process (PID=16743) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:30:06.876+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:30:06.878+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:30:06.878+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:30:07.141+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:30:07.158+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:30:07.158+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:30:07.176+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:30:07.175+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:30:07.191+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.321 seconds
+[2023-07-31T14:47:28.483+0000] {processor.py:153} INFO - Started process (PID=16797) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:47:28.484+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:47:28.486+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:47:28.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:47:28.996+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:47:29.033+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:47:29.033+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:47:29.078+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:47:29.078+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:47:29.179+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.700 seconds
+[2023-07-31T14:47:59.381+0000] {processor.py:153} INFO - Started process (PID=16844) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:47:59.390+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:47:59.392+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:47:59.392+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:47:59.603+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:47:59.621+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:47:59.621+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:47:59.637+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:47:59.637+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:47:59.655+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.277 seconds
+[2023-07-31T14:48:30.348+0000] {processor.py:153} INFO - Started process (PID=16901) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:48:30.350+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:48:30.352+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:48:30.351+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:48:30.579+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:48:30.596+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:48:30.595+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:48:30.613+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:48:30.613+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:48:30.632+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.287 seconds
+[2023-07-31T14:49:01.328+0000] {processor.py:153} INFO - Started process (PID=16958) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:49:01.330+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:49:01.331+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:49:01.331+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:49:01.542+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:49:01.557+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:49:01.557+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:49:01.572+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:49:01.572+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:49:01.589+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.264 seconds
+[2023-07-31T14:49:32.004+0000] {processor.py:153} INFO - Started process (PID=16999) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:49:32.007+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:49:32.009+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:49:32.009+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:49:32.225+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:49:32.242+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:49:32.242+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:49:32.259+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:49:32.259+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:49:32.272+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.271 seconds
+[2023-07-31T14:50:02.475+0000] {processor.py:153} INFO - Started process (PID=17055) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:50:02.484+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T14:50:02.486+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:50:02.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:50:02.692+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T14:50:02.707+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:50:02.707+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T14:50:02.722+0000] {logging_mixin.py:137} INFO - [2023-07-31T14:50:02.722+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T14:50:02.734+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.263 seconds
+[2023-07-31T15:06:07.530+0000] {processor.py:153} INFO - Started process (PID=17105) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:06:07.533+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T15:06:07.535+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:06:07.535+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:06:07.962+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:06:07.996+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:06:07.996+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T15:06:08.028+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:06:08.028+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T15:06:08.045+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.522 seconds
+[2023-07-31T15:06:38.728+0000] {processor.py:153} INFO - Started process (PID=17163) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:06:38.730+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T15:06:38.731+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:06:38.731+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:06:38.950+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:06:38.975+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:06:38.975+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T15:06:38.990+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:06:38.990+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T15:06:39.004+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.279 seconds
+[2023-07-31T15:22:33.022+0000] {processor.py:153} INFO - Started process (PID=17207) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:22:33.024+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T15:22:33.026+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:22:33.025+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:22:33.244+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:22:33.268+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:22:33.268+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T15:22:33.284+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:22:33.284+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T15:22:33.298+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.279 seconds
+[2023-07-31T15:24:23.558+0000] {processor.py:153} INFO - Started process (PID=17264) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:24:23.561+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T15:24:23.562+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:24:23.562+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:24:23.841+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:24:23.867+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:24:23.867+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T15:24:23.889+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:24:23.889+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T15:24:23.905+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.350 seconds
+[2023-07-31T15:52:47.352+0000] {processor.py:153} INFO - Started process (PID=17308) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:52:47.356+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T15:52:47.359+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:52:47.358+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:52:47.649+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T15:52:47.686+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:52:47.686+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T15:52:47.703+0000] {logging_mixin.py:137} INFO - [2023-07-31T15:52:47.703+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T15:52:47.718+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.373 seconds
+[2023-07-31T17:00:12.102+0000] {processor.py:153} INFO - Started process (PID=17365) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T17:00:12.104+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T17:00:12.106+0000] {logging_mixin.py:137} INFO - [2023-07-31T17:00:12.106+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T17:00:12.348+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T17:00:12.373+0000] {logging_mixin.py:137} INFO - [2023-07-31T17:00:12.373+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T17:00:12.392+0000] {logging_mixin.py:137} INFO - [2023-07-31T17:00:12.392+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T17:00:12.406+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.307 seconds
+[2023-07-31T17:52:08.124+0000] {processor.py:153} INFO - Started process (PID=17418) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T17:52:08.129+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T17:52:08.131+0000] {logging_mixin.py:137} INFO - [2023-07-31T17:52:08.131+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T17:52:08.635+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T17:52:08.665+0000] {logging_mixin.py:137} INFO - [2023-07-31T17:52:08.665+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T17:52:08.700+0000] {logging_mixin.py:137} INFO - [2023-07-31T17:52:08.700+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T17:52:08.721+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.600 seconds
+[2023-07-31T18:57:03.541+0000] {processor.py:153} INFO - Started process (PID=17465) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T18:57:03.543+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T18:57:03.545+0000] {logging_mixin.py:137} INFO - [2023-07-31T18:57:03.545+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T18:57:04.402+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T18:57:04.496+0000] {logging_mixin.py:137} INFO - [2023-07-31T18:57:04.496+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T18:57:04.520+0000] {logging_mixin.py:137} INFO - [2023-07-31T18:57:04.520+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T18:57:04.538+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 1.001 seconds
+[2023-07-31T19:54:07.845+0000] {processor.py:153} INFO - Started process (PID=17522) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T19:54:07.852+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T19:54:07.863+0000] {logging_mixin.py:137} INFO - [2023-07-31T19:54:07.863+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T19:54:08.498+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T19:54:08.517+0000] {logging_mixin.py:137} INFO - [2023-07-31T19:54:08.517+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T19:54:08.537+0000] {logging_mixin.py:137} INFO - [2023-07-31T19:54:08.537+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T19:54:08.553+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.717 seconds
+[2023-07-31T21:01:04.644+0000] {processor.py:153} INFO - Started process (PID=17566) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T21:01:04.647+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T21:01:04.651+0000] {logging_mixin.py:137} INFO - [2023-07-31T21:01:04.651+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T21:01:05.090+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T21:01:05.112+0000] {logging_mixin.py:137} INFO - [2023-07-31T21:01:05.112+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T21:01:05.136+0000] {logging_mixin.py:137} INFO - [2023-07-31T21:01:05.136+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T21:01:05.242+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.603 seconds
+[2023-07-31T22:10:21.982+0000] {processor.py:153} INFO - Started process (PID=17623) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T22:10:21.985+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T22:10:21.987+0000] {logging_mixin.py:137} INFO - [2023-07-31T22:10:21.987+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T22:10:22.216+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T22:10:22.304+0000] {logging_mixin.py:137} INFO - [2023-07-31T22:10:22.304+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T22:10:22.321+0000] {logging_mixin.py:137} INFO - [2023-07-31T22:10:22.321+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T22:10:22.333+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.354 seconds
+[2023-07-31T23:33:30.106+0000] {processor.py:153} INFO - Started process (PID=17668) to work on /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T23:33:30.109+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/pull_de_dag.py for tasks to queue
+[2023-07-31T23:33:30.200+0000] {logging_mixin.py:137} INFO - [2023-07-31T23:33:30.200+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T23:33:30.451+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Digital-Element-Ingestion']) retrieved from /opt/airflow/dags/pull_de_dag.py
+[2023-07-31T23:33:30.469+0000] {logging_mixin.py:137} INFO - [2023-07-31T23:33:30.468+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-07-31T23:33:30.486+0000] {logging_mixin.py:137} INFO - [2023-07-31T23:33:30.486+0000] {dag.py:3427} INFO - Setting next_dagrun for Digital-Element-Ingestion to 2023-07-30T00:00:00+00:00, run_after=2023-07-31T00:00:00+00:00
+[2023-07-31T23:33:30.503+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/pull_de_dag.py took 0.401 seconds
