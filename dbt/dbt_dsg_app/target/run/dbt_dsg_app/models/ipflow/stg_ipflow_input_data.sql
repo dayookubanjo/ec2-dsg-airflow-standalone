@@ -2,7 +2,7 @@
   
     
 
-        create or replace transient table DEV_QA.DBT_POC.stg_ipflow_input_data
+        create or replace transient table DEV_DB.CONTACT_COMPANY.stg_ipflow_input_data
          as
         (
 

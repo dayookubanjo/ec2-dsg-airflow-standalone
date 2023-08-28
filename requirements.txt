@@ -1,6 +1,8 @@
 apache-airflow-providers-snowflake 
 apache-airflow-providers-amazon
 apache-airflow-providers-common-sql 
+numpy 
+pandas 
 asn1crypto 
 cryptography 
 filelock 
@@ -18,8 +20,7 @@ typing-extensions
 boto3
 watchtower
 jsonpath_ng
-pandas
 mypy-boto3-rds
 mypy-boto3-appflow
-awscli 
-dbt-snowflake
+# awscli 
+dbt-snowflake==1.5.2

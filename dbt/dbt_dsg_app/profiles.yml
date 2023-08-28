@@ -2,12 +2,12 @@ dbt_dsg_app:
   outputs:
     dev:
       account: bcb55215.us-east-1
-      database: DEV_QA
+      database: DEV_DB
       password: Snowflake1
       role: ACCOUNTADMIN
-      schema: DBT_POC
+      schema: CONTACT_COMPANY
       threads: 4
       type: snowflake
       user: DEV_AIRFLOW
-      warehouse: dev_transform
+      warehouse: ldf_transform
   target: dev
