@@ -2,4 +2,4 @@ dbt/dbt_dsg_app/logs/*
 dbt/dbt_dsg_app/target/* 
 dbt/dbt_dsg_app/profiles.yml
 dags/__pycache__/*
-logs/*
+logs/* 
