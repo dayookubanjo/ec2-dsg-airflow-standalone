@@ -1,0 +1,13 @@
+dbt_dsg_app:
+  outputs:
+    dev:
+      account: XXXXXXXXX
+      database: XXXXXXXX
+      password: XXXXXXXXX
+      role: XXXXXXXXXXX
+      schema: XXXXXXXXXX
+      threads: 4
+      type: snowflake
+      user: XXXXXXXXXXX
+      warehouse: XXXXXXXXXX 
+  target: dev
